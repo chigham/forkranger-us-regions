@@ -1,0 +1,1224 @@
+[
+  {
+    "id": "1",
+    "nameNL": "Aardappel",
+    "nameEN": "Potato",
+    "nameDE": "Kartoffel",
+    "image": "potato",
+    "LC": [],
+    "GFS": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      11,
+      12
+    ],
+    "PT": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "SN": [
+      5
+    ]
+  },
+  {
+    "id": "2",
+    "nameNL": "Aardbei",
+    "nameEN": "Strawberry",
+    "nameDE": "Erdbeere",
+    "image": "strawberry",
+    "LC": [
+      8
+    ],
+    "GFS": [],
+    "PT": [
+      5,
+      6,
+      7
+    ],
+    "SN": [
+      4
+    ]
+  },
+  {
+    "id": "4",
+    "nameNL": "Andijvie",
+    "nameEN": "Endive",
+    "nameDE": "Endivie",
+    "image": "endive",
+    "LC": [
+      4
+    ],
+    "GFS": [],
+    "PT": [
+      1,
+      2,
+      3,
+      11,
+      12
+    ],
+    "SN": [
+      10
+    ]
+  },
+  {
+    "id": "5",
+    "nameNL": "Appel",
+    "nameEN": "Apple",
+    "nameDE": "Apfel",
+    "image": "apple",
+    "LC": [
+      3
+    ],
+    "GFS": [
+      1,
+      2,
+      11,
+      12
+    ],
+    "PT": [
+      9,
+      10
+    ],
+    "SN": [
+      8
+    ]
+  },
+  {
+    "id": "6",
+    "nameNL": "Asperge",
+    "nameEN": "Asparagus",
+    "nameDE": "Spargel",
+    "image": "asparagus",
+    "LC": [
+      5
+    ],
+    "GFS": [],
+    "PT": [
+      3,
+      4
+    ],
+    "SN": [
+      2
+    ]
+  },
+  {
+    "id": "7",
+    "nameNL": "Aubergine",
+    "nameEN": "Aubergine",
+    "nameDE": "Aubergine",
+    "image": "aubergine",
+    "LC": [
+      10
+    ],
+    "GFS": [],
+    "PT": [
+      7,
+      8,
+      9
+    ],
+    "SN": [
+      6
+    ]
+  },
+  {
+    "id": "8",
+    "nameNL": "Blauwe bes",
+    "nameEN": "Blueberry",
+    "nameDE": "Blaubeere",
+    "image": "blueberries",
+    "LC": [
+      9
+    ],
+    "GFS": [],
+    "PT": [
+      7,
+      8
+    ],
+    "SN": [
+      6
+    ]
+  },
+  {
+    "id": "9",
+    "nameNL": "Bleekselderij",
+    "nameEN": "Celery",
+    "nameDE": "Sellerie",
+    "image": "celery",
+    "LC": [
+      5
+    ],
+    "GFS": [],
+    "PT": [
+      1,
+      2,
+      3,
+      4,
+      11,
+      12
+    ],
+    "SN": [
+      10
+    ]
+  },
+  {
+    "id": "10",
+    "nameNL": "Bloemkool",
+    "nameEN": "Cauliflower",
+    "nameDE": "Blumenkohl",
+    "image": "cauliflower",
+    "LC": [
+      4
+    ],
+    "GFS": [],
+    "PT": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
+    "SN": [
+      9
+    ]
+  },
+  {
+    "id": "11",
+    "nameNL": "Boerenkool",
+    "nameEN": "Kale",
+    "nameDE": "Grünkohl",
+    "image": "kale",
+    "LC": [
+      5
+    ],
+    "GFS": [],
+    "PT": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      11,
+      12
+    ],
+    "SN": [
+      9
+    ]
+  },
+  {
+    "id": "12",
+    "nameNL": "Braam",
+    "nameEN": "Blackberry",
+    "nameDE": "Brombeere",
+    "image": "blackberry",
+    "LC": [
+      9
+    ],
+    "GFS": [],
+    "PT": [
+      7,
+      8
+    ],
+    "SN": [
+      6
+    ]
+  },
+  {
+    "id": "13",
+    "nameNL": "Broccoli",
+    "nameEN": "Broccoli",
+    "nameDE": "Brokkoli",
+    "image": "broccoli",
+    "LC": [
+      5
+    ],
+    "GFS": [],
+    "PT": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      11,
+      12
+    ],
+    "SN": [
+      9
+    ]
+  },
+  {
+    "id": "14",
+    "nameNL": "Chinese kool",
+    "nameEN": "Chinese Cabbage",
+    "nameDE": "Chinakohl",
+    "image": "chinesecabbage",
+    "LC": [
+      3
+    ],
+    "GFS": [],
+    "PT": [
+      1,
+      2,
+      11,
+      12
+    ],
+    "SN": [
+      10
+    ]
+  },
+  {
+    "id": "15",
+    "nameNL": "Courgette",
+    "nameEN": "Zucchini",
+    "nameDE": "Zucchini",
+    "image": "zucchini",
+    "LC": [
+      10
+    ],
+    "GFS": [],
+    "PT": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "SN": [
+      5
+    ]
+  },
+  {
+    "id": "16",
+    "nameNL": "Doperwt",
+    "nameEN": "Peas",
+    "nameDE": "Erbsen",
+    "image": "peas",
+    "LC": [
+      6
+    ],
+    "GFS": [],
+    "PT": [
+      4,
+      5
+    ],
+    "SN": [
+      3
+    ]
+  },
+  {
+    "id": "17",
+    "nameNL": "Framboos",
+    "nameEN": "Raspberry",
+    "nameDE": "Himbeere",
+    "image": "raspberry",
+    "LC": [
+      10
+    ],
+    "GFS": [],
+    "PT": [
+      7,
+      8,
+      9
+    ],
+    "SN": [
+      6
+    ]
+  },
+  {
+    "id": "18",
+    "nameNL": "Kers",
+    "nameEN": "Cherry",
+    "nameDE": "Kirsche",
+    "image": "cherry",
+    "LC": [
+      7
+    ],
+    "GFS": [],
+    "PT": [
+      6
+    ],
+    "SN": [
+      5
+    ]
+  },
+  {
+    "id": "20",
+    "nameNL": "Komkommer",
+    "nameEN": "Cucumber",
+    "nameDE": "Gurke",
+    "image": "cucumber",
+    "LC": [
+      11
+    ],
+    "GFS": [],
+    "PT": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "SN": [
+      5
+    ]
+  },
+  {
+    "id": "22",
+    "nameNL": "Koolrabi",
+    "nameEN": "Kohlrabi",
+    "nameDE": "Kohlrabi",
+    "image": "kohlrabi",
+    "LC": [
+      5
+    ],
+    "GFS": [],
+    "PT": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      11,
+      12
+    ],
+    "SN": [
+      9
+    ]
+  },
+  {
+    "id": "23",
+    "nameNL": "Sla",
+    "nameEN": "Lettuce",
+    "nameDE": "Salat",
+    "image": "lettuce",
+    "LC": [],
+    "GFS": [],
+    "PT": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "SN": []
+  },
+  {
+    "id": "25",
+    "nameNL": "Mais",
+    "nameEN": "Corn",
+    "nameDE": "Mais",
+    "image": "corn",
+    "LC": [
+      9
+    ],
+    "GFS": [],
+    "PT": [
+      7,
+      8
+    ],
+    "SN": [
+      6
+    ]
+  },
+  {
+    "id": "28",
+    "nameNL": "Paprika",
+    "nameEN": "Bell pepper",
+    "nameDE": "Paprika",
+    "image": "bellpepper",
+    "LC": [
+      10
+    ],
+    "GFS": [],
+    "PT": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "SN": [
+      5
+    ]
+  },
+  {
+    "id": "29",
+    "nameNL": "Pastinaak",
+    "nameEN": "Parsnip",
+    "nameDE": "Pastinak",
+    "image": "parsnip",
+    "LC": [
+      5
+    ],
+    "GFS": [
+      4
+    ],
+    "PT": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "SN": [
+      10
+    ]
+  },
+  {
+    "id": "30",
+    "nameNL": "Peer",
+    "nameEN": "Pear",
+    "nameDE": "Birne",
+    "image": "pear",
+    "LC": [
+      3
+    ],
+    "GFS": [
+      1,
+      2
+    ],
+    "PT": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "SN": [
+      7
+    ]
+  },
+  {
+    "id": "31",
+    "nameNL": "Pompoen",
+    "nameEN": "Pumpkin",
+    "nameDE": "Kürbis",
+    "image": "pumpkin",
+    "LC": [
+      4
+    ],
+    "GFS": [
+      1,
+      2,
+      3,
+      12
+    ],
+    "PT": [
+      10,
+      11
+    ],
+    "SN": [
+      9
+    ]
+  },
+  {
+    "id": "32",
+    "nameNL": "Prei",
+    "nameEN": "Leek",
+    "nameDE": "Lauch",
+    "image": "leek",
+    "LC": [
+      4
+    ],
+    "GFS": [],
+    "PT": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
+    "SN": [
+      9
+    ]
+  },
+  {
+    "id": "33",
+    "nameNL": "Pruim",
+    "nameEN": "Plum",
+    "nameDE": "Pflaume",
+    "image": "plum",
+    "LC": [
+      9
+    ],
+    "GFS": [],
+    "PT": [
+      7,
+      8
+    ],
+    "SN": [
+      6
+    ]
+  },
+  {
+    "id": "39",
+    "nameNL": "Rode biet",
+    "nameEN": "Beetroot",
+    "nameDE": "Rote Bete",
+    "image": "beetroot",
+    "LC": [
+      6
+    ],
+    "GFS": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      11,
+      12
+    ],
+    "PT": [
+      9,
+      10
+    ],
+    "SN": [
+      8
+    ]
+  },
+  {
+    "id": "40",
+    "nameNL": "Rodekool",
+    "nameEN": "Red cabbage",
+    "nameDE": "Rotkohl",
+    "image": "redcabbage",
+    "LC": [
+      5
+    ],
+    "GFS": [],
+    "PT": [
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "SN": [
+      10
+    ]
+  },
+  {
+    "id": "41",
+    "nameNL": "Rucola",
+    "nameEN": "Rocket",
+    "nameDE": "Rucola",
+    "image": "rucola",
+    "LC": [
+      6
+    ],
+    "GFS": [],
+    "PT": [
+      11,
+      12,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SN": [
+      10
+    ]
+  },
+  {
+    "id": "42",
+    "nameNL": "Savooikool",
+    "nameEN": "Savoy cabbage",
+    "nameDE": "Wirsingkohl",
+    "image": "savoycabbage",
+    "LC": [
+      5
+    ],
+    "GFS": [],
+    "PT": [
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "SN": [
+      10
+    ]
+  },
+  {
+    "id": "46",
+    "nameNL": "Sperzieboon",
+    "nameEN": "Green bean",
+    "nameDE": "Grüne Bohnen",
+    "image": "greenbeans",
+    "LC": [
+      9
+    ],
+    "GFS": [],
+    "PT": [
+      7,
+      8
+    ],
+    "SN": [
+      6
+    ]
+  },
+  {
+    "id": "47",
+    "nameNL": "Spinazie",
+    "nameEN": "Spinach",
+    "nameDE": "Spinat",
+    "image": "spinach",
+    "LC": [
+      5
+    ],
+    "GFS": [],
+    "PT": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "SN": [
+      9
+    ]
+  },
+  {
+    "id": "48",
+    "nameNL": "Spitskool",
+    "nameEN": "Pointed cabbage",
+    "nameDE": "Spitzkohl",
+    "image": "oxheartcabbage",
+    "LC": [
+      5
+    ],
+    "GFS": [],
+    "PT": [
+      1,
+      2,
+      3,
+      4,
+      11,
+      12
+    ],
+    "SN": [
+      10
+    ]
+  },
+  {
+    "id": "49",
+    "nameNL": "Spruiten",
+    "nameEN": "Brussels sprouts",
+    "nameDE": "Rosenkohl",
+    "image": "brusselssprouts",
+    "LC": [
+      3
+    ],
+    "GFS": [],
+    "PT": [
+      1,
+      2,
+      11,
+      12
+    ],
+    "SN": [
+      10
+    ]
+  },
+  {
+    "id": "50",
+    "nameNL": "Tomaat",
+    "nameEN": "Tomato",
+    "nameDE": "Tomate",
+    "image": "tomato",
+    "LC": [
+      11
+    ],
+    "GFS": [],
+    "PT": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "SN": [
+      5
+    ]
+  },
+  {
+    "id": "51",
+    "nameNL": "Tuinboon",
+    "nameEN": "Broad beans",
+    "nameDE": "Dicke Bohnen",
+    "image": "broadbean",
+    "LC": [
+      6
+    ],
+    "GFS": [],
+    "PT": [
+      3,
+      4,
+      5
+    ],
+    "SN": [
+      2
+    ]
+  },
+  {
+    "id": "54",
+    "nameNL": "Venkel",
+    "nameEN": "Fennel",
+    "nameDE": "Fenchel",
+    "image": "fennel",
+    "LC": [
+      5
+    ],
+    "GFS": [],
+    "PT": [
+      1,
+      2,
+      3,
+      4,
+      11,
+      12
+    ],
+    "SN": [
+      10
+    ]
+  },
+  {
+    "id": "56",
+    "nameNL": "Witlof",
+    "nameEN": "Chicory",
+    "nameDE": "Chicorée",
+    "image": "chicory",
+    "LC": [
+      3
+    ],
+    "GFS": [],
+    "PT": [
+      1,
+      2,
+      11,
+      12
+    ],
+    "SN": [
+      10
+    ]
+  },
+  {
+    "id": "57",
+    "nameNL": "Wittekool",
+    "nameEN": "White cabbage",
+    "nameDE": "Weißkohl",
+    "image": "whitecabbage",
+    "LC": [
+      5
+    ],
+    "GFS": [],
+    "PT": [
+      1,
+      2,
+      3,
+      4,
+      11,
+      12
+    ],
+    "SN": [
+      10
+    ]
+  },
+  {
+    "id": "58",
+    "nameNL": "Wortel",
+    "nameEN": "Carrot",
+    "nameDE": "Karotte",
+    "image": "carrot",
+    "LC": [],
+    "GFS": [],
+    "PT": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "SN": []
+  },
+  {
+    "id": "59",
+    "nameNL": "Avocado",
+    "nameEN": "Avocado",
+    "nameDE": "Avocado",
+    "image": "avocado",
+    "LC": [
+      5
+    ],
+    "GFS": [],
+    "PT": [
+      1,
+      2,
+      3,
+      4,
+      12
+    ],
+    "SN": [
+      11
+    ]
+  },
+  {
+    "id": "60",
+    "nameNL": "Kiwi",
+    "nameEN": "Kiwi",
+    "nameDE": "Kiwi",
+    "image": "kiwi",
+    "LC": [
+      3
+    ],
+    "GFS": [
+      1,
+      2
+    ],
+    "PT": [
+      11,
+      12
+    ],
+    "SN": [
+      10
+    ]
+  },
+  {
+    "id": "61",
+    "nameNL": "Mandarijn",
+    "nameEN": "Mandarine",
+    "nameDE": "Mandarine",
+    "image": "mandarine",
+    "LC": [
+      4
+    ],
+    "GFS": [],
+    "PT": [
+      1,
+      2,
+      3,
+      11,
+      12
+    ],
+    "SN": [
+      10
+    ]
+  },
+  {
+    "id": "62",
+    "nameNL": "Grapefruit",
+    "nameEN": "Grapefruit",
+    "nameDE": "Grapefruit",
+    "image": "grapefruit",
+    "LC": [
+      4
+    ],
+    "GFS": [],
+    "PT": [
+      1,
+      2,
+      3,
+      12
+    ],
+    "SN": [
+      11
+    ]
+  },
+  {
+    "id": "63",
+    "nameNL": "Sinaasappel",
+    "nameEN": "Orange",
+    "nameDE": "Orange",
+    "image": "orange",
+    "LC": [
+      5
+    ],
+    "GFS": [],
+    "PT": [
+      1,
+      2,
+      3,
+      4,
+      12
+    ],
+    "SN": [
+      11
+    ]
+  },
+  {
+    "id": "64",
+    "nameNL": "Kaki",
+    "nameEN": "Persimmon",
+    "nameDE": "Kaki",
+    "image": "persimmon",
+    "LC": [
+      12
+    ],
+    "GFS": [],
+    "PT": [
+      11
+    ],
+    "SN": [
+      10
+    ]
+  },
+  {
+    "id": "65",
+    "nameNL": "Mispel",
+    "nameEN": "Loquat",
+    "nameDE": "Mispel",
+    "image": "loquat",
+    "LC": [
+      6
+    ],
+    "GFS": [],
+    "PT": [
+      5
+    ],
+    "SN": [
+      4
+    ]
+  },
+  {
+    "id": "66",
+    "nameNL": "Abrikoos",
+    "nameEN": "Abricot",
+    "nameDE": "Aprikose",
+    "image": "apricot",
+    "LC": [
+      8
+    ],
+    "GFS": [],
+    "PT": [
+      6,
+      7
+    ],
+    "SN": [
+      5
+    ]
+  },
+  {
+    "id": "67",
+    "nameNL": "Watermeloen",
+    "nameEN": "Watermelon",
+    "nameDE": "Wassermelone",
+    "image": "watermelon",
+    "LC": [
+      9
+    ],
+    "GFS": [],
+    "PT": [
+      7,
+      8
+    ],
+    "SN": [
+      6
+    ]
+  },
+  {
+    "id": "69",
+    "nameNL": "Perzik",
+    "nameEN": "Peach",
+    "nameDE": "Pfirsich",
+    "image": "peach",
+    "LC": [
+      10
+    ],
+    "GFS": [],
+    "PT": [
+      7,
+      8,
+      9
+    ],
+    "SN": [
+      6
+    ]
+  },
+  {
+    "id": "70",
+    "nameNL": "Nectarine",
+    "nameEN": "Nectarine",
+    "nameDE": "Nektarine",
+    "image": "nectarine",
+    "LC": [
+      9
+    ],
+    "GFS": [],
+    "PT": [
+      6,
+      7,
+      8
+    ],
+    "SN": [
+      5
+    ]
+  },
+  {
+    "id": "71",
+    "nameNL": "Meloen",
+    "nameEN": "Melon",
+    "nameDE": "Melone",
+    "image": "melon",
+    "LC": [
+      9
+    ],
+    "GFS": [],
+    "PT": [
+      6,
+      7,
+      8
+    ],
+    "SN": [
+      5
+    ]
+  },
+  {
+    "id": "72",
+    "nameNL": "Vijg",
+    "nameEN": "Fig",
+    "nameDE": "Feige",
+    "image": "fig",
+    "LC": [
+      10
+    ],
+    "GFS": [],
+    "PT": [
+      7,
+      8,
+      9
+    ],
+    "SN": [
+      6
+    ]
+  },
+  {
+    "id": "73",
+    "nameNL": "Druiven",
+    "nameEN": "Grapes",
+    "nameDE": "Trauben",
+    "image": "grapes",
+    "LC": [
+      11
+    ],
+    "GFS": [],
+    "PT": [
+      8,
+      9,
+      10
+    ],
+    "SN": [
+      7
+    ]
+  },
+  {
+    "id": "74",
+    "nameNL": "Granaatappel",
+    "nameEN": "Pomegranate",
+    "nameDE": "Granatapfel",
+    "image": "pomegranate",
+    "LC": [
+      12
+    ],
+    "GFS": [],
+    "PT": [
+      10,
+      11
+    ],
+    "SN": [
+      9
+    ]
+  },
+  {
+    "id": "75",
+    "nameNL": "Snijbiet",
+    "nameEN": "Chard",
+    "nameDE": "Mangold",
+    "image": "chard",
+    "LC": [],
+    "GFS": [],
+    "PT": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "SN": []
+  },
+  {
+    "id": "76",
+    "nameNL": "Artisjok",
+    "nameEN": "Artichoke",
+    "nameDE": "Artischocke",
+    "image": "artichoke",
+    "LC": [
+      5
+    ],
+    "GFS": [],
+    "PT": [
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "SN": [
+      11
+    ]
+  },
+  {
+    "id": "77",
+    "nameNL": "Knolraap",
+    "nameEN": "Turnip",
+    "nameDE": "Rübe",
+    "image": "turnip",
+    "LC": [
+      5
+    ],
+    "GFS": [],
+    "PT": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "SN": [
+      9
+    ]
+  }
+]
