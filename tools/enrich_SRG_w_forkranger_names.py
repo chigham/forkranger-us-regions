@@ -194,7 +194,7 @@ mapper = {
 def assign_forkranger_names(df: pd.DataFrame, mapper: dict[str, str]):
     """Adds a column to the dataframe with mapped fork ranger names for the vegetables."""
 
-    df["fork-ranger-name"] = df["vegetable"].apply(lambda x: mapper[x] if mapper[x] != "" else "-")
+    df["fork-ranger-name"] = df["vegetable"].apply(lambda x: mapper[x] if mapper[x] != "" else "X")
     df = df[["state", "vegetable", "fork-ranger-name", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]]
 
     return df
@@ -207,4 +207,4 @@ if __name__ == "__main__":
     df = assign_forkranger_names(df, mapper)
     print(datetime.now() - start)  # executes in 0.0023 seconds
 
-    df.to_csv(r"data\raw\(temp) Seasonal_Food_Guide-assigned.csv", index=False)
+    df.to_csv(r"data\raw\Seasonal_Food_Guide-assigned.csv", index=False)
