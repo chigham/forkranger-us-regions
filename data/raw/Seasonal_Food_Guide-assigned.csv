@@ -98,7 +98,7 @@ alabama,sorrel,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 alabama,spinach,Spinach,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 alabama,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 alabama,strawberries,Strawberry,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,,,,
-alabama,summer-squash,Summer squash,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,,
+alabama,summer-squash,Zucchini,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,,
 alabama,sunchokes,Jerusalem artichoke,Starting Now,Last Chance,,,Starting Now,Prime Time,Last Chance,,,,,
 alabama,sweet-potatoes,Sweet potato,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,
 alabama,tangerines,X,,,,,,,,,,Starting Now,Prime Time,Last Chance
@@ -109,8 +109,8 @@ alabama,tomatoes,Tomato,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last 
 alabama,turnips,Turnip,Starting Now,Prime Time,Prime Time,Last Chance,,,,,,,,
 alabama,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 alabama,watermelon,Watermelon,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
-alabama,winter-squash,Winter squash,,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance
-alabama,yams,Yam,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
+alabama,winter-squash,Pumpkin,,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance
+alabama,yams,Sweet potato,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 alabama,zucchini,Zucchini,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,,
 alaska,apples,Apple,,,,,,,Starting Now,Prime Time,Last Chance,,,
 alaska,apricots,Abricot,,,,,,,Starting Now,Last Chance,,,,
@@ -182,7 +182,7 @@ alaska,sorrel,X,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
 alaska,spinach,Spinach,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
 alaska,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 alaska,strawberries,Strawberry,,,,,,,Starting Now,Prime Time,Last Chance,,,
-alaska,summer-squash,Summer squash,,,,,,,Starting Now,Prime Time,Last Chance,,,
+alaska,summer-squash,Zucchini,,,,,,,Starting Now,Prime Time,Last Chance,,,
 alaska,sunchokes,Jerusalem artichoke,Starting Now,Prime Time,Last Chance,,Starting Now,Prime Time,Prime Time,Last Chance,,,,
 alaska,tarragon,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
 alaska,thyme,X,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
@@ -190,7 +190,7 @@ alaska,tomatillos,X,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time
 alaska,tomatoes,Tomato,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
 alaska,turnips,Turnip,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,
 alaska,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
-alaska,winter-squash,Winter squash,,,,,,,,Starting Now,Prime Time,Last Chance,,
+alaska,winter-squash,Pumpkin,,,,,,,,Starting Now,Prime Time,Last Chance,,
 alaska,zucchini,Zucchini,,,,,,,Starting Now,Prime Time,Last Chance,,,
 arizona,apples,Apple,,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance
 arizona,apricots,Abricot,,,,,Starting Now,Last Chance,,,,,,
@@ -285,7 +285,7 @@ arizona,sorrel,X,Prime Time,Prime Time,Last Chance,,,,,,,Starting Now,Prime Time
 arizona,spinach,Spinach,Prime Time,Prime Time,Last Chance,,,,,,,Starting Now,Prime Time,Prime Time
 arizona,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 arizona,strawberries,Strawberry,,Starting Now,Prime Time,Last Chance,,,,,,,,
-arizona,summer-squash,Summer squash,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
+arizona,summer-squash,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 arizona,sunchokes,Jerusalem artichoke,Starting Now,Prime Time,Last Chance,,Starting Now,Prime Time,Last Chance,,,,,
 arizona,sweet-potatoes,Sweet potato,Prime Time,Prime Time,Last Chance,,,,,,,,,Starting Now
 arizona,tangerines,X,,,,,,,,,,,Starting Now,Last Chance
@@ -296,7 +296,7 @@ arizona,tomatoes,Tomato,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,P
 arizona,turnips,Turnip,Prime Time,Prime Time,Prime Time,Last Chance,,,,,,,Starting Now,Prime Time
 arizona,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 arizona,watermelon,Watermelon,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
-arizona,winter-squash,Winter squash,,,,,,,,,Starting Now,Prime Time,Last Chance,
+arizona,winter-squash,Pumpkin,,,,,,,,,Starting Now,Prime Time,Last Chance,
 arizona,zucchini,Zucchini,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,,
 arkansas,apples,Apple,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 arkansas,arugula,Rocket,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,,,
@@ -388,7 +388,7 @@ arkansas,sorrel,X,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Pr
 arkansas,spinach,Spinach,,,Starting Now,Last Chance,,,,,,,Starting Now,Last Chance
 arkansas,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 arkansas,strawberries,Strawberry,,,,,Starting Now,Last Chance,,,,,,
-arkansas,summer-squash,Summer squash,,,,,,Starting Now,Prime Time,Last Chance,,,,
+arkansas,summer-squash,Zucchini,,,,,,Starting Now,Prime Time,Last Chance,,,,
 arkansas,sunchokes,Jerusalem artichoke,Starting Now,Last Chance,,,,Starting Now,Last Chance,,,,,
 arkansas,sweet-potatoes,Sweet potato,,,,,,,,Starting Now,Prime Time,Last Chance,,
 arkansas,tarragon,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
@@ -398,7 +398,7 @@ arkansas,tomatoes,Tomato,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime
 arkansas,turnips,Turnip,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,,,,,Starting Now,Prime Time
 arkansas,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 arkansas,watermelon,Watermelon,,,,,,,Starting Now,Prime Time,Last Chance,,,
-arkansas,winter-squash,Winter squash,,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance
+arkansas,winter-squash,Pumpkin,,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance
 arkansas,zucchini,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
 northern-california,apples,Apple,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
 northern-california,apricots,Abricot,,,,,Starting Now,Prime Time,Last Chance,,,,,
@@ -515,7 +515,7 @@ northern-california,sorrel,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime T
 northern-california,spinach,Spinach,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 northern-california,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 northern-california,strawberries,Strawberry,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
-northern-california,summer-squash,Summer squash,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
+northern-california,summer-squash,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 northern-california,sunchokes,Jerusalem artichoke,Prime Time,Prime Time,Prime Time,Last Chance,,,,,Starting Now,Prime Time,Prime Time,Prime Time
 northern-california,sweet-potatoes,Sweet potato,,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance
 northern-california,tangerines,X,Prime Time,Prime Time,Last Chance,,,,,,,,Starting Now,Prime Time
@@ -527,7 +527,7 @@ northern-california,turnips,Turnip,Prime Time,Prime Time,Prime Time,Prime Time,P
 northern-california,watercress,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 northern-california,watermelon,Watermelon,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,
 northern-california,white-sapote,X,Starting Now,Prime Time,Last Chance,,,,,,,,,
-northern-california,winter-squash,Winter squash,,,,,,,,,,Starting Now,Prime Time,Last Chance
+northern-california,winter-squash,Pumpkin,,,,,,,,,,Starting Now,Prime Time,Last Chance
 northern-california,yacon,X,,,,,,,,,,,Starting Now,Last Chance
 southern-california,apples,Apple,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance
 southern-california,apricots,Abricot,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,,
@@ -616,7 +616,7 @@ southern-california,snow-peas,Snow peas,Starting Now,Prime Time,Prime Time,Prime
 southern-california,sorrel,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 southern-california,spinach,Spinach,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,,,Starting Now,Prime Time,Prime Time
 southern-california,strawberries,Strawberry,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
-southern-california,summer-squash,Summer squash,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
+southern-california,summer-squash,Zucchini,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
 southern-california,sweet-potatoes,Sweet potato,,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance
 southern-california,tangerines,X,Prime Time,Prime Time,Last Chance,,,,,,,,Starting Now,Prime Time
 southern-california,tarragon,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
@@ -626,7 +626,7 @@ southern-california,tomatoes,Tomato,,,,,Starting Now,Prime Time,Prime Time,Prime
 southern-california,turnips,Turnip,Prime Time,Prime Time,Prime Time,Last Chance,,,,,,,Starting Now,Prime Time
 southern-california,watermelon,Watermelon,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,
 southern-california,white-sapote,X,Prime Time,Last Chance,,,,,,,,Starting Now,Prime Time,Prime Time
-southern-california,winter-squash,Winter squash,Prime Time,Last Chance,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time
+southern-california,winter-squash,Pumpkin,Prime Time,Last Chance,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time
 southern-california,yacon,X,,,,,,,,,,Starting Now,Prime Time,Last Chance
 southern-california,zucchini,Zucchini,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
 colorado,apples,Apple,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,
@@ -716,7 +716,7 @@ colorado,sorrel,X,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,L
 colorado,spinach,Spinach,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
 colorado,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 colorado,strawberries,Strawberry,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
-colorado,summer-squash,Summer squash,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,,
+colorado,summer-squash,Zucchini,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,,
 colorado,sunchokes,Jerusalem artichoke,,,,,,Starting Now,Prime Time,Last Chance,,,,
 colorado,sweet-potatoes,Sweet potato,,,,,,,,Starting Now,Last Chance,,,
 colorado,tarragon,X,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
@@ -726,7 +726,7 @@ colorado,tomatoes,Tomato,,,,,,,Starting Now,Prime Time,Last Chance,,,
 colorado,turnips,Turnip,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
 colorado,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 colorado,watermelon,Watermelon,,,,,,,,,Starting Now,Last Chance,,
-colorado,winter-squash,Winter squash,,,,,,,,,Starting Now,Prime Time,Last Chance,
+colorado,winter-squash,Pumpkin,,,,,,,,,Starting Now,Prime Time,Last Chance,
 colorado,zucchini,Zucchini,,,,,,,,Starting Now,Prime Time,Last Chance,,
 connecticut,apples,Apple,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance
 connecticut,arugula,Rocket,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,,
@@ -820,7 +820,7 @@ connecticut,sorrel,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 connecticut,spinach,Spinach,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 connecticut,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 connecticut,strawberries,Strawberry,,,,,,Starting Now,Last Chance,,,,,
-connecticut,summer-squash,Summer squash,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
+connecticut,summer-squash,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
 connecticut,sunchokes,Jerusalem artichoke,,,,,,,Prime Time,,,,,
 connecticut,sweet-potatoes,Sweet potato,,,,,,,,Starting Now,Last Chance,,,
 connecticut,tarragon,X,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
@@ -830,7 +830,7 @@ connecticut,tomatoes,Tomato,,,,,,,Starting Now,Prime Time,Last Chance,,,
 connecticut,turnips,Turnip,,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance
 connecticut,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 connecticut,watermelon,Watermelon,,,,,,,,Starting Now,Prime Time,Last Chance,,
-connecticut,winter-squash,Winter squash,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance
+connecticut,winter-squash,Pumpkin,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance
 connecticut,zucchini,Zucchini,,,,,,,Starting Now,Prime Time,Last Chance,,,
 delaware,apples,Apple,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,
 delaware,arugula,Rocket,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,,
@@ -925,7 +925,7 @@ delaware,sorrel,X,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,La
 delaware,spinach,Spinach,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,,
 delaware,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 delaware,strawberries,Strawberry,,,,,Starting Now,Last Chance,,,,,,
-delaware,summer-squash,Summer squash,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
+delaware,summer-squash,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
 delaware,sunchokes,Jerusalem artichoke,Prime Time,,,,,,Prime Time,,,,,
 delaware,sweet-potatoes,Sweet potato,,,,,,,,,Starting Now,Last Chance,,
 delaware,tarragon,X,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,,
@@ -935,7 +935,7 @@ delaware,tomatoes,Tomato,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last
 delaware,turnips,Turnip,,,,Starting Now,Last Chance,,,Starting Now,Last Chance,,,
 delaware,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 delaware,watermelon,Watermelon,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
-delaware,winter-squash,Winter squash,,,,,,,Starting Now,Prime Time,Last Chance,,,
+delaware,winter-squash,Pumpkin,,,,,,,Starting Now,Prime Time,Last Chance,,,
 delaware,zucchini,Zucchini,,,,,,,Starting Now,Prime Time,Last Chance,,,
 north-florida,arugula,Rocket,Prime Time,Last Chance,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time
 north-florida,asparagus,Asparagus,,Starting Now,Prime Time,Last Chance,,,,,,,,
@@ -1028,7 +1028,7 @@ north-florida,sorrel,X,Prime Time,Last Chance,,,,,,,Starting Now,Prime Time,Prim
 north-florida,spinach,Spinach,Prime Time,Last Chance,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time
 north-florida,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 north-florida,strawberries,Strawberry,Prime Time,Last Chance,,,,,,,,,Starting Now,Prime Time
-north-florida,summer-squash,Summer squash,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
+north-florida,summer-squash,Zucchini,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
 north-florida,sunchokes,Jerusalem artichoke,,,,,,,,,Starting Now,Last Chance,,
 north-florida,sweet-potatoes,Sweet potato,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance
 north-florida,tangerines,X,,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance
@@ -1041,8 +1041,8 @@ north-florida,tomatoes,Tomato,,,Starting Now,Prime Time,Prime Time,Prime Time,Pr
 north-florida,turnips,Turnip,Prime Time,Prime Time,Prime Time,Last Chance,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 north-florida,watercress,X,Prime Time,Last Chance,,,,,,,,,Starting Now,Prime Time
 north-florida,watermelon,Watermelon,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,,,
-north-florida,winter-squash,Winter squash,,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance
-north-florida,yams,Yam,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
+north-florida,winter-squash,Pumpkin,,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance
+north-florida,yams,Sweet potato,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 north-florida,zucchini,Zucchini,,,,,Starting Now,Last Chance,,,,,,
 south-florida,arugula,Rocket,Prime Time,,,,,,,,,,,
 south-florida,asparagus,Asparagus,,Starting Now,Prime Time,Last Chance,,,,,,,,
@@ -1131,7 +1131,7 @@ south-florida,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,P
 south-florida,starfruit,X,Last Chance,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 south-florida,strawberries,Strawberry,Prime Time,Prime Time,Prime Time,Last Chance,,,,,,,,Starting Now
 south-florida,sugarcane,X,Last Chance,,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time
-south-florida,summer-squash,Summer squash,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,,
+south-florida,summer-squash,Zucchini,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,,
 south-florida,sweet-potatoes,Sweet potato,,,,,,,,Starting Now,Last Chance,,,
 south-florida,tangerines,X,Prime Time,Prime Time,Prime Time,Last Chance,,,,,,,Starting Now,Prime Time
 south-florida,taro,X,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,,,Starting Now,Last Chance
@@ -1144,8 +1144,8 @@ south-florida,turnips,Turnip,Prime Time,Prime Time,Last Chance,,Prime Time,,,,,,
 south-florida,watercress,X,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
 south-florida,watermelon,Watermelon,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
 south-florida,white-sapote,X,,,,,,Prime Time,,,,,,
-south-florida,winter-squash,Winter squash,Starting Now,Last Chance,,,,,,,Starting Now,Last Chance,,
-south-florida,yams,Yam,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
+south-florida,winter-squash,Pumpkin,Starting Now,Last Chance,,,,,,,Starting Now,Last Chance,,
+south-florida,yams,Sweet potato,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 south-florida,yuca,X,,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance
 south-florida,zucchini,Zucchini,,,,Starting Now,Prime Time,Last Chance,,,,,,
 georgia,apples,Apple,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,
@@ -1237,7 +1237,7 @@ georgia,sorrel,X,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,,,,,St
 georgia,spinach,Spinach,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,,,,,Starting Now,Prime Time
 georgia,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 georgia,strawberries,Strawberry,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,,
-georgia,summer-squash,Summer squash,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
+georgia,summer-squash,Zucchini,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
 georgia,sunchokes,Jerusalem artichoke,Starting Now,Last Chance,,,Starting Now,Prime Time,Last Chance,,,,,
 georgia,sweet-potatoes,Sweet potato,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,
 georgia,tarragon,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
@@ -1247,8 +1247,8 @@ georgia,tomatoes,Tomato,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime 
 georgia,turnips,Turnip,Prime Time,Prime Time,Last Chance,,,,,,,Starting Now,Prime Time,Prime Time
 georgia,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 georgia,watermelon,Watermelon,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
-georgia,winter-squash,Winter squash,,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance
-georgia,yams,Yam,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
+georgia,winter-squash,Pumpkin,,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance
+georgia,yams,Sweet potato,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 georgia,zucchini,Zucchini,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
 hawaii,apricots,Abricot,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,,Starting Now,Prime Time,Prime Time,Prime Time
 hawaii,arugula,Rocket,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance
@@ -1342,7 +1342,7 @@ hawaii,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Ti
 hawaii,starfruit,X,Prime Time,Prime Time,Prime Time,Last Chance,,,,,Starting Now,Prime Time,Prime Time,Prime Time
 hawaii,strawberries,Strawberry,Starting Now,Prime Time,Prime Time,Last Chance,,,,,,,,
 hawaii,sugarcane,X,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
-hawaii,summer-squash,Summer squash,Prime Time,Last Chance,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
+hawaii,summer-squash,Zucchini,Prime Time,Last Chance,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 hawaii,sweet-potatoes,Sweet potato,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 hawaii,tangerines,X,Prime Time,Last Chance,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time
 hawaii,taro,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
@@ -1355,7 +1355,7 @@ hawaii,turmeric,X,Prime Time,Prime Time,Last Chance,,,Starting Now,Last Chance,,
 hawaii,watercress,X,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,,
 hawaii,watermelon,Watermelon,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
 hawaii,white-sapote,X,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,,
-hawaii,yams,Yam,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
+hawaii,yams,Sweet potato,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 hawaii,yuca,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 hawaii,zucchini,Zucchini,Prime Time,Last Chance,,,Starting Now,Prime Time,Prime Time,Last Chance,,Starting Now,Prime Time,Prime Time
 idaho,apples,Apple,Starting Now,Prime Time,Prime Time,Last Chance,,,,Starting Now,Prime Time,Prime Time,Last Chance,
@@ -1446,7 +1446,7 @@ idaho,sorrel,X,,,,,Starting Now,Prime Time,Last Chance,,,,,
 idaho,spinach,Spinach,,,,,Starting Now,Prime Time,Last Chance,,,,,
 idaho,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 idaho,strawberries,Strawberry,,,,,,,Starting Now,Last Chance,,,,
-idaho,summer-squash,Summer squash,,,,,,,Starting Now,Prime Time,Last Chance,,,
+idaho,summer-squash,Zucchini,,,,,,,Starting Now,Prime Time,Last Chance,,,
 idaho,sunchokes,Jerusalem artichoke,Prime Time,,,,,,Starting Now,Last Chance,,,,
 idaho,sweet-potatoes,Sweet potato,,,,,,,,Starting Now,Last Chance,,,
 idaho,tarragon,X,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
@@ -1456,7 +1456,7 @@ idaho,tomatoes,Tomato,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 idaho,turnips,Turnip,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
 idaho,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 idaho,watermelon,Watermelon,,,,,,Starting Now,Prime Time,Last Chance,,,,
-idaho,winter-squash,Winter squash,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance
+idaho,winter-squash,Pumpkin,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance
 idaho,zucchini,Zucchini,,,,,,,Starting Now,Prime Time,Last Chance,,,
 illinois,apples,Apple,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
 illinois,arugula,Rocket,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,,
@@ -1545,7 +1545,7 @@ illinois,sorrel,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
 illinois,spinach,Spinach,,,,Starting Now,Prime Time,Last Chance,,,Starting Now,Prime Time,Last Chance,
 illinois,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 illinois,strawberries,Strawberry,,,,,Starting Now,Last Chance,,,,,,
-illinois,summer-squash,Summer squash,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
+illinois,summer-squash,Zucchini,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 illinois,sunchokes,Jerusalem artichoke,Prime Time,,,,,,Prime Time,,,,,
 illinois,sweet-potatoes,Sweet potato,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
 illinois,tarragon,X,,,,,,,,Starting Now,Prime Time,Last Chance,,
@@ -1555,7 +1555,7 @@ illinois,tomatoes,Tomato,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last
 illinois,turnips,Turnip,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 illinois,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 illinois,watermelon,Watermelon,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
-illinois,winter-squash,Winter squash,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
+illinois,winter-squash,Pumpkin,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
 illinois,zucchini,Zucchini,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 indiana,apples,Apple,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 indiana,arugula,Rocket,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,,
@@ -1642,7 +1642,7 @@ indiana,sorrel,X,,,,Starting Now,Prime Time,Last Chance,,,Starting Now,Last Chan
 indiana,spinach,Spinach,,,,Starting Now,Prime Time,Last Chance,,,Starting Now,Last Chance,,
 indiana,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 indiana,strawberries,Strawberry,,,,,Starting Now,Prime Time,Last Chance,,,,,
-indiana,summer-squash,Summer squash,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
+indiana,summer-squash,Zucchini,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
 indiana,sunchokes,Jerusalem artichoke,,,,,,,Prime Time,,,,,
 indiana,sweet-potatoes,Sweet potato,,,,,,,,Starting Now,Last Chance,,,
 indiana,tarragon,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
@@ -1652,7 +1652,7 @@ indiana,tomatoes,Tomato,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last C
 indiana,turnips,Turnip,,,,Starting Now,Prime Time,Last Chance,,,Starting Now,Prime Time,Last Chance,
 indiana,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 indiana,watermelon,Watermelon,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
-indiana,winter-squash,Winter squash,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
+indiana,winter-squash,Pumpkin,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 indiana,zucchini,Zucchini,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
 iowa,apples,Apple,,,,,,,,Starting Now,Prime Time,Last Chance,,
 iowa,apricots,Abricot,,,,,,,Starting Now,Last Chance,,,,
@@ -1742,7 +1742,7 @@ iowa,sorrel,X,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last 
 iowa,spinach,Spinach,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
 iowa,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 iowa,strawberries,Strawberry,,,,,,Prime Time,,,,,,
-iowa,summer-squash,Summer squash,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
+iowa,summer-squash,Zucchini,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 iowa,sunchokes,Jerusalem artichoke,,,,,,,Starting Now,Last Chance,,,,
 iowa,tarragon,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
 iowa,thyme,X,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
@@ -1751,7 +1751,7 @@ iowa,tomatoes,Tomato,,,,,,,Starting Now,Prime Time,Last Chance,,,
 iowa,turnips,Turnip,,,,,,Starting Now,Last Chance,,Starting Now,Last Chance,,
 iowa,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 iowa,watermelon,Watermelon,,,,,,Starting Now,Prime Time,Last Chance,,,,
-iowa,winter-squash,Winter squash,,,,,,,,Starting Now,Prime Time,Last Chance,,
+iowa,winter-squash,Pumpkin,,,,,,,,Starting Now,Prime Time,Last Chance,,
 iowa,zucchini,Zucchini,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 kansas,apples,Apple,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,
 kansas,apricots,Abricot,,,,,,Starting Now,Last Chance,,,,,
@@ -1844,7 +1844,7 @@ kansas,sorrel,X,,,Starting Now,Prime Time,Prime Time,Last Chance,,,Starting Now,
 kansas,spinach,Spinach,,,Starting Now,Prime Time,Prime Time,Last Chance,,,Starting Now,Prime Time,Prime Time,Last Chance
 kansas,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 kansas,strawberries,Strawberry,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,,
-kansas,summer-squash,Summer squash,,,,,,Starting Now,Prime Time,Last Chance,,,,
+kansas,summer-squash,Zucchini,,,,,,Starting Now,Prime Time,Last Chance,,,,
 kansas,sunchokes,Jerusalem artichoke,Starting Now,Last Chance,,,,Starting Now,Last Chance,,,,,
 kansas,sweet-potatoes,Sweet potato,,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance
 kansas,tarragon,X,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
@@ -1854,7 +1854,7 @@ kansas,tomatoes,Tomato,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime 
 kansas,turnips,Turnip,,,,,,Starting Now,Last Chance,,,Starting Now,Prime Time,Last Chance
 kansas,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 kansas,watermelon,Watermelon,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
-kansas,winter-squash,Winter squash,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
+kansas,winter-squash,Pumpkin,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
 kansas,zucchini,Zucchini,,,,,,,Starting Now,Prime Time,Last Chance,,,
 kentucky,apples,Apple,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance
 kentucky,apricots,Abricot,,,,,,,Starting Now,Last Chance,,,,
@@ -1945,7 +1945,7 @@ kentucky,sorrel,X,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance
 kentucky,spinach,Spinach,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 kentucky,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 kentucky,strawberries,Strawberry,,,,,Starting Now,Last Chance,,,,,,
-kentucky,summer-squash,Summer squash,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
+kentucky,summer-squash,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
 kentucky,sunchokes,Jerusalem artichoke,Prime Time,,,,,,Prime Time,,,,,
 kentucky,sweet-potatoes,Sweet potato,,,,,,,,,Prime Time,,,
 kentucky,tarragon,X,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
@@ -1955,7 +1955,7 @@ kentucky,tomatoes,Tomato,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 kentucky,turnips,Turnip,,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance
 kentucky,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 kentucky,watermelon,Watermelon,,,,,,,,Starting Now,Last Chance,,,
-kentucky,winter-squash,Winter squash,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
+kentucky,winter-squash,Pumpkin,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
 kentucky,zucchini,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
 louisiana,apples,Apple,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
 louisiana,arugula,Rocket,Prime Time,Prime Time,Prime Time,Last Chance,,,,,,Starting Now,Prime Time,Prime Time
@@ -2058,7 +2058,7 @@ louisiana,sorrel,X,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,,,,S
 louisiana,spinach,Spinach,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,,,,Starting Now,Prime Time,Prime Time
 louisiana,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 louisiana,strawberries,Strawberry,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,,,
-louisiana,summer-squash,Summer squash,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
+louisiana,summer-squash,Zucchini,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
 louisiana,sunchokes,Jerusalem artichoke,,Starting Now,Last Chance,,Starting Now,Last Chance,,,,,,
 louisiana,sweet-potatoes,Sweet potato,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
 louisiana,tangerines,X,Prime Time,Last Chance,,,,,,,,,Starting Now,Prime Time
@@ -2069,7 +2069,7 @@ louisiana,tomatoes,Tomato,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Pri
 louisiana,turnips,Turnip,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,,Starting Now,Prime Time,Prime Time,Prime Time
 louisiana,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 louisiana,watermelon,Watermelon,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
-louisiana,winter-squash,Winter squash,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
+louisiana,winter-squash,Pumpkin,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
 louisiana,zucchini,Zucchini,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
 maine,apples,Apple,,,,,,,,Starting Now,Prime Time,Last Chance,,
 maine,apricots,Abricot,,,,,,,Starting Now,Last Chance,,,,
@@ -2162,7 +2162,7 @@ maine,sorrel,X,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prim
 maine,spinach,Spinach,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
 maine,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 maine,strawberries,Strawberry,,,,,,Starting Now,Last Chance,,,,,
-maine,summer-squash,Summer squash,,,,,,,Starting Now,Prime Time,Last Chance,,,
+maine,summer-squash,Zucchini,,,,,,,Starting Now,Prime Time,Last Chance,,,
 maine,sunchokes,Jerusalem artichoke,,,,,,,Starting Now,Last Chance,,,,
 maine,sweet-potatoes,Sweet potato,,,,,,,,,Starting Now,Last Chance,,
 maine,tarragon,X,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
@@ -2172,7 +2172,7 @@ maine,tomatoes,Tomato,,,,,,,Starting Now,Prime Time,Last Chance,,,
 maine,turnips,Turnip,,,,,,,,,Starting Now,Last Chance,,
 maine,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 maine,watermelon,Watermelon,,,,,,,,Starting Now,Last Chance,,,
-maine,winter-squash,Winter squash,,,,,,,,,Starting Now,Prime Time,Last Chance,
+maine,winter-squash,Pumpkin,,,,,,,,,Starting Now,Prime Time,Last Chance,
 maine,zucchini,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 maryland,apples,Apple,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
 maryland,apricots,Abricot,,,,,,Starting Now,Last Chance,,,,,
@@ -2272,7 +2272,7 @@ maryland,sorrel,X,,,,,Starting Now,Last Chance,,,Starting Now,Prime Time,Last Ch
 maryland,spinach,Spinach,,,,,Starting Now,Last Chance,,,Starting Now,Prime Time,Last Chance,
 maryland,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 maryland,strawberries,Strawberry,,,,,Starting Now,Last Chance,,,,,,
-maryland,summer-squash,Summer squash,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
+maryland,summer-squash,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
 maryland,sunchokes,Jerusalem artichoke,Prime Time,,,,,,Prime Time,,,,,
 maryland,sweet-potatoes,Sweet potato,,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance
 maryland,tarragon,X,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
@@ -2282,7 +2282,7 @@ maryland,tomatoes,Tomato,,,,,,,Starting Now,Prime Time,Last Chance,,,
 maryland,turnips,Turnip,,,,,Starting Now,Last Chance,,Starting Now,Prime Time,Prime Time,Last Chance,
 maryland,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 maryland,watermelon,Watermelon,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
-maryland,winter-squash,Winter squash,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
+maryland,winter-squash,Pumpkin,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
 maryland,zucchini,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 massachusetts,apples,Apple,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 massachusetts,arugula,Rocket,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
@@ -2375,7 +2375,7 @@ massachusetts,sorrel,X,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last C
 massachusetts,spinach,Spinach,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 massachusetts,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 massachusetts,strawberries,Strawberry,,,,,,Prime Time,,Starting Now,Prime Time,Last Chance,,
-massachusetts,summer-squash,Summer squash,,,,,,,Starting Now,Prime Time,Last Chance,,,
+massachusetts,summer-squash,Zucchini,,,,,,,Starting Now,Prime Time,Last Chance,,,
 massachusetts,sunchokes,Jerusalem artichoke,,,,,,,Prime Time,,,,,
 massachusetts,sweet-potatoes,Sweet potato,,,,,,,,Starting Now,Last Chance,,,
 massachusetts,tarragon,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
@@ -2385,7 +2385,7 @@ massachusetts,tomatoes,Tomato,,,,,,,,,Starting Now,Last Chance,,
 massachusetts,turnips,Turnip,,,,,,,,Starting Now,Prime Time,Last Chance,,
 massachusetts,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 massachusetts,watermelon,Watermelon,,,,,,,,Starting Now,Prime Time,Last Chance,,
-massachusetts,winter-squash,Winter squash,,,,,,,,,Starting Now,Last Chance,,
+massachusetts,winter-squash,Pumpkin,,,,,,,,,Starting Now,Last Chance,,
 massachusetts,zucchini,Zucchini,,,,,,,Starting Now,Prime Time,Last Chance,,,
 michigan,apples,Apple,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
 michigan,apricots,Abricot,,,,,,,Starting Now,Last Chance,,,,
@@ -2479,7 +2479,7 @@ michigan,sorrel,X,,,,,Starting Now,Last Chance,,,,,,
 michigan,spinach,Spinach,,,,,Starting Now,Last Chance,,,Starting Now,Prime Time,Last Chance,
 michigan,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 michigan,strawberries,Strawberry,,,,,Starting Now,Prime Time,Last Chance,,,,,
-michigan,summer-squash,Summer squash,,,,,,,Starting Now,Prime Time,Last Chance,,,
+michigan,summer-squash,Zucchini,,,,,,,Starting Now,Prime Time,Last Chance,,,
 michigan,sunchokes,Jerusalem artichoke,,,,,,,Starting Now,Last Chance,,,,
 michigan,sweet-potatoes,Sweet potato,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
 michigan,tarragon,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
@@ -2489,7 +2489,7 @@ michigan,tomatoes,Tomato,,,,,,,,Starting Now,Prime Time,Last Chance,,
 michigan,turnips,Turnip,,,,,Starting Now,Last Chance,,,Starting Now,Last Chance,,
 michigan,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 michigan,watermelon,Watermelon,,,,,,,,Starting Now,Prime Time,Last Chance,,
-michigan,winter-squash,Winter squash,,,,,,,,,Starting Now,Last Chance,,
+michigan,winter-squash,Pumpkin,,,,,,,,,Starting Now,Last Chance,,
 michigan,zucchini,Zucchini,,,,,,,Starting Now,Prime Time,Last Chance,,,
 minnesota,apples,Apple,,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance
 minnesota,arugula,Rocket,,,,Starting Now,Prime Time,Last Chance,,,,Starting Now,Prime Time,Last Chance
@@ -2572,7 +2572,7 @@ minnesota,sorrel,X,,,,Starting Now,Prime Time,Last Chance,,,,Starting Now,Prime 
 minnesota,spinach,Spinach,,,,,Starting Now,Last Chance,,Starting Now,Prime Time,Last Chance,,
 minnesota,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 minnesota,strawberries,Strawberry,,,,,,Starting Now,Last Chance,,,,,
-minnesota,summer-squash,Summer squash,,,,,,,Starting Now,Prime Time,Last Chance,,,
+minnesota,summer-squash,Zucchini,,,,,,,Starting Now,Prime Time,Last Chance,,,
 minnesota,sunchokes,Jerusalem artichoke,Starting Now,Prime Time,Last Chance,,,,,,,,,
 minnesota,sweet-potatoes,Sweet potato,Prime Time,Prime Time,Last Chance,,,,,,,Starting Now,Prime Time,Prime Time
 minnesota,tarragon,X,,,,,,,Starting Now,Prime Time,Last Chance,,,
@@ -2582,7 +2582,7 @@ minnesota,tomatoes,Tomato,,,,,,,Starting Now,Prime Time,Last Chance,,,
 minnesota,turnips,Turnip,,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance
 minnesota,watercress,X,,,,Starting Now,Prime Time,Last Chance,,,,Starting Now,Prime Time,Last Chance
 minnesota,watermelon,Watermelon,,,,,,,,Starting Now,Last Chance,,,
-minnesota,winter-squash,Winter squash,,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance
+minnesota,winter-squash,Pumpkin,,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance
 minnesota,zucchini,Zucchini,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 mississippi,apples,Apple,,,,,Starting Now,Prime Time,Last Chance,,,,,
 mississippi,arugula,Rocket,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,,Starting Now,Prime Time,Last Chance
@@ -2685,7 +2685,7 @@ mississippi,sorrel,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last
 mississippi,spinach,Spinach,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,,Starting Now,Prime Time,Prime Time
 mississippi,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 mississippi,strawberries,Strawberry,,,Starting Now,Last Chance,,,,,,,,
-mississippi,summer-squash,Summer squash,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
+mississippi,summer-squash,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 mississippi,sunchokes,Jerusalem artichoke,Starting Now,Last Chance,,,,Starting Now,Last Chance,,,,,
 mississippi,sweet-potatoes,Sweet potato,,,,,,,,Starting Now,Prime Time,Last Chance,,
 mississippi,tangerines,X,,,,,,,,,,,,Prime Time
@@ -2696,7 +2696,7 @@ mississippi,tomatoes,Tomato,,,,,,Starting Now,Prime Time,Last Chance,,,,
 mississippi,turnips,Turnip,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,,Starting Now,Prime Time,Prime Time,Prime Time
 mississippi,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 mississippi,watermelon,Watermelon,,,,,,Starting Now,Prime Time,Last Chance,,,,
-mississippi,winter-squash,Winter squash,,,,,,,,,,Starting Now,Last Chance,
+mississippi,winter-squash,Pumpkin,,,,,,,,,,Starting Now,Last Chance,
 mississippi,zucchini,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 missouri,apples,Apple,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
 missouri,apricots,Abricot,,,,,,Starting Now,Last Chance,,,,,
@@ -2786,7 +2786,7 @@ missouri,sorrel,X,,,Starting Now,Prime Time,Prime Time,Last Chance,,,Starting No
 missouri,spinach,Spinach,,,Starting Now,Prime Time,Prime Time,Last Chance,,,Starting Now,Prime Time,Prime Time,Last Chance
 missouri,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 missouri,strawberries,Strawberry,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,
-missouri,summer-squash,Summer squash,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
+missouri,summer-squash,Zucchini,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
 missouri,sunchokes,Jerusalem artichoke,,,,,,,Prime Time,,,,,
 missouri,sweet-potatoes,Sweet potato,,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance
 missouri,tarragon,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
@@ -2796,7 +2796,7 @@ missouri,tomatoes,Tomato,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime
 missouri,turnips,Turnip,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance
 missouri,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 missouri,watermelon,Watermelon,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
-missouri,winter-squash,Winter squash,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance
+missouri,winter-squash,Pumpkin,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance
 missouri,zucchini,Zucchini,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 montana,apples,Apple,,,,,,,,,Starting Now,Last Chance,,
 montana,apricots,Abricot,,,,,,,,Prime Time,,,,
@@ -2876,7 +2876,7 @@ montana,sorrel,X,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
 montana,spinach,Spinach,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
 montana,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 montana,strawberries,Strawberry,,,,,,Starting Now,Last Chance,,,,,
-montana,summer-squash,Summer squash,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
+montana,summer-squash,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 montana,sunchokes,Jerusalem artichoke,,,,,,,Starting Now,Last Chance,,,,
 montana,tarragon,X,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
 montana,thyme,X,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
@@ -2885,7 +2885,7 @@ montana,tomatoes,Tomato,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last 
 montana,turnips,Turnip,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
 montana,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 montana,watermelon,Watermelon,,,,,,,,Starting Now,Last Chance,,,
-montana,winter-squash,Winter squash,,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance
+montana,winter-squash,Pumpkin,,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance
 montana,zucchini,Zucchini,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 nebraska,apples,Apple,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,
 nebraska,apricots,Abricot,,,,,,,Starting Now,Last Chance,,,,
@@ -2975,7 +2975,7 @@ nebraska,sorrel,X,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,P
 nebraska,spinach,Spinach,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
 nebraska,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 nebraska,strawberries,Strawberry,,,,,,Starting Now,Last Chance,,,,,
-nebraska,summer-squash,Summer squash,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
+nebraska,summer-squash,Zucchini,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
 nebraska,sunchokes,Jerusalem artichoke,,,,,,,Starting Now,Last Chance,,,,
 nebraska,sweet-potatoes,Sweet potato,,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance
 nebraska,tarragon,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
@@ -2985,7 +2985,7 @@ nebraska,tomatoes,Tomato,,,,,,,Starting Now,Prime Time,Last Chance,,,
 nebraska,turnips,Turnip,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance
 nebraska,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 nebraska,watermelon,Watermelon,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
-nebraska,winter-squash,Winter squash,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance
+nebraska,winter-squash,Pumpkin,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance
 nebraska,zucchini,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 nevada,apples,Apple,,,,,,,,Starting Now,Prime Time,Last Chance,,
 nevada,apricots,Abricot,,,,,,Starting Now,Prime Time,Last Chance,,,,
@@ -3080,7 +3080,7 @@ nevada,sorrel,X,,,Starting Now,Prime Time,Prime Time,Last Chance,,,Starting Now,
 nevada,spinach,Spinach,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,,Starting Now,Prime Time,Prime Time,Prime Time
 nevada,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 nevada,strawberries,Strawberry,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
-nevada,summer-squash,Summer squash,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
+nevada,summer-squash,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
 nevada,sunchokes,Jerusalem artichoke,,,,,,,,,Starting Now,Prime Time,Last Chance,
 nevada,sweet-potatoes,Sweet potato,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,
 nevada,tarragon,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
@@ -3090,7 +3090,7 @@ nevada,tomatoes,Tomato,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime 
 nevada,turnips,Turnip,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance
 nevada,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 nevada,watermelon,Watermelon,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
-nevada,winter-squash,Winter squash,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance
+nevada,winter-squash,Pumpkin,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance
 nevada,zucchini,Zucchini,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
 new-hampshire,apples,Apple,,,,,,,,Starting Now,Prime Time,Last Chance,,
 new-hampshire,apricots,Abricot,,,,,,,Starting Now,Last Chance,,,,
@@ -3183,7 +3183,7 @@ new-hampshire,sorrel,X,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime 
 new-hampshire,spinach,Spinach,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
 new-hampshire,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 new-hampshire,strawberries,Strawberry,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
-new-hampshire,summer-squash,Summer squash,,,,,,,Starting Now,Prime Time,Last Chance,,,
+new-hampshire,summer-squash,Zucchini,,,,,,,Starting Now,Prime Time,Last Chance,,,
 new-hampshire,sunchokes,Jerusalem artichoke,,,,,,,Starting Now,Last Chance,,,,
 new-hampshire,sweet-potatoes,Sweet potato,,,,,,,,,Starting Now,Last Chance,,
 new-hampshire,tarragon,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
@@ -3193,7 +3193,7 @@ new-hampshire,tomatoes,Tomato,,,,,,,Starting Now,Prime Time,Last Chance,,,
 new-hampshire,turnips,Turnip,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 new-hampshire,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 new-hampshire,watermelon,Watermelon,,,,,,,,Starting Now,Last Chance,,,
-new-hampshire,winter-squash,Winter squash,,,,,,,,Starting Now,Prime Time,Last Chance,,
+new-hampshire,winter-squash,Pumpkin,,,,,,,,Starting Now,Prime Time,Last Chance,,
 new-hampshire,zucchini,Zucchini,,,,,,,Starting Now,Prime Time,Last Chance,,,
 new-jersey,apples,Apple,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 new-jersey,arugula,Rocket,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,,
@@ -3286,7 +3286,7 @@ new-jersey,sorrel,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
 new-jersey,spinach,Spinach,,,,Starting Now,Prime Time,Last Chance,,,,,,
 new-jersey,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 new-jersey,strawberries,Strawberry,,,,,Starting Now,Last Chance,,,,,,
-new-jersey,summer-squash,Summer squash,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
+new-jersey,summer-squash,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
 new-jersey,sunchokes,Jerusalem artichoke,Prime Time,,,,,,Prime Time,,,,,
 new-jersey,sweet-potatoes,Sweet potato,,,,,,,,Starting Now,Last Chance,,,
 new-jersey,tarragon,X,,,,,,,Starting Now,Prime Time,Last Chance,,,
@@ -3296,7 +3296,7 @@ new-jersey,tomatoes,Tomato,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
 new-jersey,turnips,Turnip,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
 new-jersey,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 new-jersey,watermelon,Watermelon,,,,,,,,Starting Now,Prime Time,Last Chance,,
-new-jersey,winter-squash,Winter squash,,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance
+new-jersey,winter-squash,Pumpkin,,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance
 new-jersey,zucchini,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
 new-mexico,apples,Apple,,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance
 new-mexico,apricots,Abricot,,,,,,Starting Now,Last Chance,,,,,
@@ -3386,7 +3386,7 @@ new-mexico,sorrel,X,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,P
 new-mexico,spinach,Spinach,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 new-mexico,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 new-mexico,strawberries,Strawberry,,,,,,Starting Now,Last Chance,,,,,
-new-mexico,summer-squash,Summer squash,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
+new-mexico,summer-squash,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
 new-mexico,sunchokes,Jerusalem artichoke,Starting Now,Prime Time,Last Chance,,Starting Now,Prime Time,Last Chance,,,,,
 new-mexico,sweet-potatoes,Sweet potato,Last Chance,,,,,,,,,Starting Now,Prime Time,Prime Time
 new-mexico,tarragon,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
@@ -3396,7 +3396,7 @@ new-mexico,tomatoes,Tomato,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
 new-mexico,turnips,Turnip,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
 new-mexico,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 new-mexico,watermelon,Watermelon,,,,,,,Starting Now,Prime Time,Last Chance,,,
-new-mexico,winter-squash,Winter squash,Prime Time,Last Chance,,,,,,,,Starting Now,Prime Time,Prime Time
+new-mexico,winter-squash,Pumpkin,Prime Time,Last Chance,,,,,,,,Starting Now,Prime Time,Prime Time
 new-mexico,zucchini,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
 new-york,apples,Apple,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,
 new-york,arugula,Rocket,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,,
@@ -3489,7 +3489,7 @@ new-york,sorrel,X,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,L
 new-york,spinach,Spinach,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
 new-york,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 new-york,strawberries,Strawberry,,,,,,Starting Now,Last Chance,,,,,
-new-york,summer-squash,Summer squash,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
+new-york,summer-squash,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 new-york,sunchokes,Jerusalem artichoke,Prime Time,,,,,,Starting Now,Last Chance,,,,
 new-york,sweet-potatoes,Sweet potato,,,,,,,,Starting Now,Last Chance,,,
 new-york,tarragon,X,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
@@ -3499,7 +3499,7 @@ new-york,tomatoes,Tomato,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last
 new-york,turnips,Turnip,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
 new-york,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 new-york,watermelon,Watermelon,,,,,,,,,Starting Now,Last Chance,,
-new-york,winter-squash,Winter squash,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
+new-york,winter-squash,Pumpkin,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
 new-york,zucchini,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 north-carolina,apples,Apple,Prime Time,Last Chance,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time
 north-carolina,arugula,Rocket,,,Starting Now,Prime Time,Last Chance,,,,Starting Now,Prime Time,Last Chance,
@@ -3591,7 +3591,7 @@ north-carolina,sorrel,X,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
 north-carolina,spinach,Spinach,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,,,,Starting Now,Prime Time,Prime Time
 north-carolina,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 north-carolina,strawberries,Strawberry,,,,Starting Now,Prime Time,Last Chance,,,,,,
-north-carolina,summer-squash,Summer squash,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,,
+north-carolina,summer-squash,Zucchini,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,,
 north-carolina,sunchokes,Jerusalem artichoke,Starting Now,Last Chance,,,,Starting Now,Last Chance,,,,,
 north-carolina,sweet-potatoes,Sweet potato,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 north-carolina,tarragon,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
@@ -3601,7 +3601,7 @@ north-carolina,tomatoes,Tomato,,,,,,Starting Now,Prime Time,Prime Time,Prime Tim
 north-carolina,turnips,Turnip,,,,Starting Now,Prime Time,Last Chance,,,,Starting Now,Prime Time,Last Chance
 north-carolina,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 north-carolina,watermelon,Watermelon,,,,,,,Starting Now,Last Chance,,,,
-north-carolina,winter-squash,Winter squash,Last Chance,,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time
+north-carolina,winter-squash,Pumpkin,Last Chance,,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time
 north-carolina,zucchini,Zucchini,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,,
 north-dakota,apples,Apple,,,,,,,,Starting Now,Prime Time,Last Chance,,
 north-dakota,apricots,Abricot,,,,,,,Starting Now,Last Chance,,,,
@@ -3685,7 +3685,7 @@ north-dakota,sorrel,X,,,,,,Starting Now,Prime Time,Last Chance,,,,
 north-dakota,spinach,Spinach,,,,,,Starting Now,Prime Time,Last Chance,,,,
 north-dakota,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 north-dakota,strawberries,Strawberry,,,,,,Starting Now,Last Chance,,,,,
-north-dakota,summer-squash,Summer squash,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
+north-dakota,summer-squash,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
 north-dakota,sunchokes,Jerusalem artichoke,,,,,,,,Prime Time,,,,
 north-dakota,sweet-potatoes,Sweet potato,,,,,,,,,Prime Time,,,
 north-dakota,tarragon,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
@@ -3695,7 +3695,7 @@ north-dakota,tomatoes,Tomato,,,,,,,Starting Now,Prime Time,Last Chance,,,
 north-dakota,turnips,Turnip,,,,,,,,Starting Now,Prime Time,Last Chance,,
 north-dakota,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 north-dakota,watermelon,Watermelon,,,,,,,,Starting Now,Last Chance,,,
-north-dakota,winter-squash,Winter squash,,,,,,,,,Starting Now,Prime Time,Last Chance,
+north-dakota,winter-squash,Pumpkin,,,,,,,,,Starting Now,Prime Time,Last Chance,
 north-dakota,zucchini,Zucchini,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,
 ohio,apples,Apple,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
 ohio,arugula,Rocket,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,,
@@ -3783,7 +3783,7 @@ ohio,sorrel,X,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last 
 ohio,spinach,Spinach,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
 ohio,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 ohio,strawberries,Strawberry,,,,Starting Now,Prime Time,Last Chance,,,,,,
-ohio,summer-squash,Summer squash,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
+ohio,summer-squash,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 ohio,sunchokes,Jerusalem artichoke,,,,,,,Prime Time,,,,,
 ohio,sweet-potatoes,Sweet potato,,,,,,,,Starting Now,Last Chance,,,
 ohio,tarragon,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
@@ -3793,7 +3793,7 @@ ohio,tomatoes,Tomato,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Cha
 ohio,turnips,Turnip,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
 ohio,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 ohio,watermelon,Watermelon,,,,,,,,Starting Now,Prime Time,Last Chance,,
-ohio,winter-squash,Winter squash,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
+ohio,winter-squash,Pumpkin,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
 ohio,zucchini,Zucchini,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 oklahoma,apples,Apple,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 oklahoma,apricots,Abricot,,,,,,Starting Now,Last Chance,,,,,
@@ -3884,7 +3884,7 @@ oklahoma,sorrel,X,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,
 oklahoma,spinach,Spinach,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,
 oklahoma,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 oklahoma,strawberries,Strawberry,,,,Starting Now,Prime Time,Last Chance,,,,,,
-oklahoma,summer-squash,Summer squash,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,,
+oklahoma,summer-squash,Zucchini,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,,
 oklahoma,sunchokes,Jerusalem artichoke,Prime Time,,,,,,Prime Time,,,,,
 oklahoma,sweet-potatoes,Sweet potato,,,,,,,,,,Starting Now,Prime Time,Last Chance
 oklahoma,tarragon,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
@@ -3894,7 +3894,7 @@ oklahoma,tomatoes,Tomato,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 oklahoma,turnips,Turnip,,,,Starting Now,Last Chance,,,Starting Now,Prime Time,Prime Time,Last Chance,
 oklahoma,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 oklahoma,watermelon,Watermelon,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
-oklahoma,winter-squash,Winter squash,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,
+oklahoma,winter-squash,Pumpkin,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,
 oklahoma,zucchini,Zucchini,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 oregon,apples,Apple,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 oregon,apricots,Abricot,,,,,,,Starting Now,Last Chance,,,,
@@ -3988,7 +3988,7 @@ oregon,sorrel,X,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Pri
 oregon,spinach,Spinach,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance
 oregon,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 oregon,strawberries,Strawberry,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,
-oregon,summer-squash,Summer squash,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
+oregon,summer-squash,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 oregon,sunchokes,Jerusalem artichoke,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 oregon,sweet-potatoes,Sweet potato,,,,,,,,Starting Now,Last Chance,,,
 oregon,tarragon,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
@@ -3998,7 +3998,7 @@ oregon,tomatoes,Tomato,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 oregon,turnips,Turnip,Last Chance,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 oregon,watercress,X,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance
 oregon,watermelon,Watermelon,,,,,,,Starting Now,Prime Time,Last Chance,,,
-oregon,winter-squash,Winter squash,Prime Time,Last Chance,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time
+oregon,winter-squash,Pumpkin,Prime Time,Last Chance,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time
 oregon,zucchini,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 pennsylvania,apples,Apple,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 pennsylvania,apricots,Abricot,,,,,,,Prime Time,,,,,
@@ -4091,7 +4091,7 @@ pennsylvania,sorrel,X,,,,Starting Now,Last Chance,,,,Starting Now,Last Chance,,
 pennsylvania,spinach,Spinach,,,,Starting Now,Last Chance,,,,Starting Now,Last Chance,,
 pennsylvania,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 pennsylvania,strawberries,Strawberry,,,,,,Prime Time,,,,,,
-pennsylvania,summer-squash,Summer squash,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
+pennsylvania,summer-squash,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 pennsylvania,sunchokes,Jerusalem artichoke,Prime Time,,,,,,Prime Time,,,,,
 pennsylvania,sweet-potatoes,Sweet potato,,,,,,,,Starting Now,Last Chance,,,
 pennsylvania,tarragon,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
@@ -4101,7 +4101,7 @@ pennsylvania,tomatoes,Tomato,,,,Starting Now,Prime Time,Prime Time,Prime Time,Pr
 pennsylvania,turnips,Turnip,Prime Time,Last Chance,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time
 pennsylvania,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 pennsylvania,watermelon,Watermelon,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
-pennsylvania,winter-squash,Winter squash,,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance
+pennsylvania,winter-squash,Pumpkin,,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance
 pennsylvania,zucchini,Zucchini,,,,,,,Starting Now,Prime Time,Last Chance,,,
 rhode-island,apples,Apple,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,
 rhode-island,apricots,Abricot,,,,,,,,Starting Now,Last Chance,,,
@@ -4195,7 +4195,7 @@ rhode-island,sorrel,X,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Tim
 rhode-island,spinach,Spinach,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
 rhode-island,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 rhode-island,strawberries,Strawberry,,,,,,Starting Now,Last Chance,,,,,
-rhode-island,summer-squash,Summer squash,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
+rhode-island,summer-squash,Zucchini,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
 rhode-island,sunchokes,Jerusalem artichoke,,,,,,,Prime Time,,,,,
 rhode-island,sweet-potatoes,Sweet potato,,,,,,,,Starting Now,Prime Time,Last Chance,,
 rhode-island,tarragon,X,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
@@ -4205,7 +4205,7 @@ rhode-island,tomatoes,Tomato,,,,,,,Starting Now,Prime Time,Prime Time,Last Chanc
 rhode-island,turnips,Turnip,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,
 rhode-island,watercress,X,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
 rhode-island,watermelon,Watermelon,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
-rhode-island,winter-squash,Winter squash,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
+rhode-island,winter-squash,Pumpkin,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
 rhode-island,zucchini,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 south-carolina,apples,Apple,,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance
 south-carolina,arugula,Rocket,,,,Starting Now,Prime Time,Last Chance,,,,,,
@@ -4293,7 +4293,7 @@ south-carolina,sorrel,X,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
 south-carolina,spinach,Spinach,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,,,,,Starting Now,Prime Time
 south-carolina,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 south-carolina,strawberries,Strawberry,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,,
-south-carolina,summer-squash,Summer squash,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
+south-carolina,summer-squash,Zucchini,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
 south-carolina,sunchokes,Jerusalem artichoke,Starting Now,Prime Time,Last Chance,,Starting Now,Prime Time,Last Chance,,,,,
 south-carolina,sweet-potatoes,Sweet potato,,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance
 south-carolina,tarragon,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
@@ -4303,7 +4303,7 @@ south-carolina,tomatoes,Tomato,,,,,,Starting Now,Last Chance,,,Starting Now,Last
 south-carolina,turnips,Turnip,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 south-carolina,watercress,X,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,,,
 south-carolina,watermelon,Watermelon,,,,,,Starting Now,Last Chance,,Starting Now,Last Chance,,
-south-carolina,winter-squash,Winter squash,,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance
+south-carolina,winter-squash,Pumpkin,,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance
 south-carolina,zucchini,Zucchini,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
 south-dakota,apples,Apple,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
 south-dakota,apricots,Abricot,,,,,,,Starting Now,Last Chance,,,,
@@ -4386,7 +4386,7 @@ south-dakota,sorrel,X,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Ti
 south-dakota,spinach,Spinach,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
 south-dakota,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 south-dakota,strawberries,Strawberry,,,,,,Starting Now,Last Chance,,,,,
-south-dakota,summer-squash,Summer squash,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,
+south-dakota,summer-squash,Zucchini,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,
 south-dakota,sunchokes,Jerusalem artichoke,,,,,,,Starting Now,Last Chance,,,,
 south-dakota,tarragon,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
 south-dakota,thyme,X,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
@@ -4395,7 +4395,7 @@ south-dakota,tomatoes,Tomato,,,,,,,Starting Now,Prime Time,Last Chance,,,
 south-dakota,turnips,Turnip,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
 south-dakota,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 south-dakota,watermelon,Watermelon,,,,,,,,Starting Now,Last Chance,,,
-south-dakota,winter-squash,Winter squash,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,
+south-dakota,winter-squash,Pumpkin,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,
 south-dakota,zucchini,Zucchini,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,
 tennessee,apples,Apple,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
 tennessee,apricots,Abricot,,,,,,,Starting Now,Last Chance,,,,
@@ -4487,7 +4487,7 @@ tennessee,sorrel,X,,,,,Starting Now,Last Chance,,,,,,
 tennessee,spinach,Spinach,,,,,Starting Now,Last Chance,,,,,,
 tennessee,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 tennessee,strawberries,Strawberry,,,,,Starting Now,Last Chance,,,,,,
-tennessee,summer-squash,Summer squash,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
+tennessee,summer-squash,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 tennessee,sunchokes,Jerusalem artichoke,Prime Time,,,,,,Prime Time,,,,,
 tennessee,sweet-potatoes,Sweet potato,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 tennessee,tarragon,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
@@ -4497,7 +4497,7 @@ tennessee,tomatoes,Tomato,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Pri
 tennessee,turnips,Turnip,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
 tennessee,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 tennessee,watermelon,Watermelon,,,,,,,Starting Now,Prime Time,Last Chance,,,
-tennessee,winter-squash,Winter squash,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,
+tennessee,winter-squash,Pumpkin,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,
 tennessee,zucchini,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 texas,apples,Apple,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
 texas,arugula,Rocket,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
@@ -4592,7 +4592,7 @@ texas,sorrel,X,Prime Time,Prime Time,Prime Time,Last Chance,,,,,,,Starting Now,P
 texas,spinach,Spinach,Prime Time,Prime Time,Prime Time,Last Chance,,,,,,,Starting Now,Prime Time
 texas,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 texas,strawberries,Strawberry,,Starting Now,Prime Time,Last Chance,,,,,,,,
-texas,summer-squash,Summer squash,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
+texas,summer-squash,Zucchini,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
 texas,sunchokes,Jerusalem artichoke,Starting Now,Last Chance,,,Starting Now,Prime Time,Last Chance,,,,,
 texas,sweet-potatoes,Sweet potato,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time
 texas,tangerines,X,Prime Time,Prime Time,Prime Time,Last Chance,,,,,Starting Now,Prime Time,Prime Time,Prime Time
@@ -4603,7 +4603,7 @@ texas,tomatoes,Tomato,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Ti
 texas,turnips,Turnip,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 texas,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 texas,watermelon,Watermelon,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
-texas,winter-squash,Winter squash,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
+texas,winter-squash,Pumpkin,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
 texas,zucchini,Zucchini,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
 utah,apples,Apple,,,,,,,,,Starting Now,Prime Time,Last Chance,
 utah,apricots,Abricot,,,,,,,Starting Now,Prime Time,Last Chance,,,
@@ -4694,7 +4694,7 @@ utah,sorrel,X,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last 
 utah,spinach,Spinach,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
 utah,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 utah,strawberries,Strawberry,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
-utah,summer-squash,Summer squash,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
+utah,summer-squash,Zucchini,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 utah,sunchokes,Jerusalem artichoke,Starting Now,Last Chance,,,,Starting Now,Prime Time,Last Chance,,,,
 utah,sweet-potatoes,Sweet potato,,,,,,,,,Starting Now,Last Chance,,
 utah,tarragon,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
@@ -4704,7 +4704,7 @@ utah,tomatoes,Tomato,,,,,,,Starting Now,Prime Time,Last Chance,,,
 utah,turnips,Turnip,,,,,,,,,,Starting Now,Prime Time,Last Chance
 utah,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 utah,watermelon,Watermelon,,,,,,,,,Starting Now,Last Chance,,
-utah,winter-squash,Winter squash,,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance
+utah,winter-squash,Pumpkin,,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance
 utah,zucchini,Zucchini,,,,,,,,Starting Now,Prime Time,Last Chance,,
 vermont,apples,Apple,,,,,,,Starting Now,Prime Time,Last Chance,,,
 vermont,apricots,Abricot,,,,,,,Starting Now,Last Chance,,,,
@@ -4794,7 +4794,7 @@ vermont,sorrel,X,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,La
 vermont,spinach,Spinach,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
 vermont,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 vermont,strawberries,Strawberry,,,,,,Prime Time,,,,,,
-vermont,summer-squash,Summer squash,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
+vermont,summer-squash,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 vermont,sunchokes,Jerusalem artichoke,,,,,,,Starting Now,Last Chance,,,,
 vermont,sweet-potatoes,Sweet potato,,,,,,,,,Starting Now,Last Chance,,
 vermont,tarragon,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
@@ -4804,7 +4804,7 @@ vermont,tomatoes,Tomato,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 vermont,turnips,Turnip,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,
 vermont,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 vermont,watermelon,Watermelon,,,,,,,,Starting Now,Last Chance,,,
-vermont,winter-squash,Winter squash,,,,,,,,Starting Now,Prime Time,Last Chance,,
+vermont,winter-squash,Pumpkin,,,,,,,,Starting Now,Prime Time,Last Chance,,
 vermont,zucchini,Zucchini,,,,,,,Starting Now,Prime Time,Last Chance,,,
 virginia,apples,Apple,Prime Time,Prime Time,Prime Time,Last Chance,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 virginia,artichokes,Artichoke,,,,,,,,Prime Time,,,,
@@ -4898,7 +4898,7 @@ virginia,sorrel,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime T
 virginia,spinach,Spinach,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,Starting Now,Prime Time,Last Chance
 virginia,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 virginia,strawberries,Strawberry,,,,Starting Now,Prime Time,Last Chance,,,,,,
-virginia,summer-squash,Summer squash,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
+virginia,summer-squash,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 virginia,sunchokes,Jerusalem artichoke,Starting Now,Last Chance,,,,Starting Now,Last Chance,,,,,
 virginia,sweet-potatoes,Sweet potato,Prime Time,Last Chance,,,,,,,,Starting Now,Prime Time,Prime Time
 virginia,tarragon,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
@@ -4908,7 +4908,7 @@ virginia,tomatoes,Tomato,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 virginia,turnips,Turnip,Prime Time,Prime Time,Last Chance,,,,,,Starting Now,Prime Time,Prime Time,Prime Time
 virginia,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 virginia,watermelon,Watermelon,,,,,,,Starting Now,Prime Time,Last Chance,,,
-virginia,winter-squash,Winter squash,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
+virginia,winter-squash,Pumpkin,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 virginia,zucchini,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 washington,apples,Apple,,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance
 washington,apricots,Abricot,,,,,,Starting Now,Prime Time,Last Chance,,,,
@@ -5005,7 +5005,7 @@ washington,sorrel,X,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,P
 washington,spinach,Spinach,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance
 washington,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 washington,strawberries,Strawberry,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
-washington,summer-squash,Summer squash,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
+washington,summer-squash,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 washington,sunchokes,Jerusalem artichoke,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,,,,Starting Now,Prime Time,Prime Time
 washington,sweet-potatoes,Sweet potato,,,,,,,,,Starting Now,Prime Time,Last Chance,
 washington,tarragon,X,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,
@@ -5015,7 +5015,7 @@ washington,tomatoes,Tomato,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,L
 washington,turnips,Turnip,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 washington,watercress,X,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,
 washington,watermelon,Watermelon,,,,,,,,Starting Now,Prime Time,Last Chance,,
-washington,winter-squash,Winter squash,,,,,,,,,,Starting Now,Prime Time,Last Chance
+washington,winter-squash,Pumpkin,,,,,,,,,,Starting Now,Prime Time,Last Chance
 washington,zucchini,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 washington-dc,apples,Apple,Prime Time,Prime Time,Prime Time,Last Chance,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 washington-dc,apricots,Abricot,,,,,,Starting Now,Last Chance,,,,,
@@ -5109,7 +5109,7 @@ washington-dc,sorrel,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Pr
 washington-dc,spinach,Spinach,,,Starting Now,Prime Time,Prime Time,Last Chance,,,Starting Now,Prime Time,Last Chance,
 washington-dc,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 washington-dc,strawberries,Strawberry,,,,,Starting Now,Last Chance,,,,,,
-washington-dc,summer-squash,Summer squash,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
+washington-dc,summer-squash,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 washington-dc,sunchokes,Jerusalem artichoke,Last Chance,,,,,,,,,,,Starting Now
 washington-dc,sweet-potatoes,Sweet potato,Prime Time,Prime Time,Prime Time,Last Chance,,,,,Starting Now,Prime Time,Prime Time,Prime Time
 washington-dc,tarragon,X,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
@@ -5119,7 +5119,7 @@ washington-dc,tomatoes,Tomato,,,,,,,Starting Now,Prime Time,Prime Time,Last Chan
 washington-dc,turnips,Turnip,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,Starting Now,Prime Time,Prime Time,Last Chance,
 washington-dc,watercress,X,,,Prime Time,,,,,,,,,
 washington-dc,watermelon,Watermelon,,,,,,,Starting Now,Prime Time,Last Chance,,,
-washington-dc,winter-squash,Winter squash,Prime Time,Prime Time,Prime Time,Last Chance,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time
+washington-dc,winter-squash,Pumpkin,Prime Time,Prime Time,Prime Time,Last Chance,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time
 washington-dc,zucchini,Zucchini,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,
 west-virginia,apples,Apple,,,,,,,,,Starting Now,Last Chance,,
 west-virginia,apricots,Abricot,,,,,,,Starting Now,Last Chance,,,,
@@ -5209,7 +5209,7 @@ west-virginia,sorrel,X,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime T
 west-virginia,spinach,Spinach,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
 west-virginia,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 west-virginia,strawberries,Strawberry,,,,,,Prime Time,,,Prime Time,,,
-west-virginia,summer-squash,Summer squash,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
+west-virginia,summer-squash,Zucchini,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 west-virginia,sunchokes,Jerusalem artichoke,,,,,,,Prime Time,,,,,
 west-virginia,sweet-potatoes,Sweet potato,,,,,,,,,Starting Now,Last Chance,,
 west-virginia,tarragon,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
@@ -5219,7 +5219,7 @@ west-virginia,tomatoes,Tomato,,,,,,Starting Now,Prime Time,Prime Time,Prime Time
 west-virginia,turnips,Turnip,,,,,,,,,Starting Now,Last Chance,,
 west-virginia,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 west-virginia,watermelon,Watermelon,,,,,,,,Starting Now,Last Chance,,,
-west-virginia,winter-squash,Winter squash,,,,,,,,Starting Now,Prime Time,Last Chance,,
+west-virginia,winter-squash,Pumpkin,,,,,,,,Starting Now,Prime Time,Last Chance,,
 west-virginia,zucchini,Zucchini,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 wisconsin,apples,Apple,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 wisconsin,arugula,Rocket,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
@@ -5305,7 +5305,7 @@ wisconsin,sorrel,X,,,,,Starting Now,Last Chance,,,Starting Now,Last Chance,,
 wisconsin,spinach,Spinach,,,,,Starting Now,Last Chance,,,Starting Now,Last Chance,,
 wisconsin,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 wisconsin,strawberries,Strawberry,,,,,Starting Now,Last Chance,,,,,,
-wisconsin,summer-squash,Summer squash,,,,,,,Starting Now,Prime Time,Last Chance,,,
+wisconsin,summer-squash,Zucchini,,,,,,,Starting Now,Prime Time,Last Chance,,,
 wisconsin,sunchokes,Jerusalem artichoke,,,,,,,Starting Now,Last Chance,,,,
 wisconsin,sweet-potatoes,Sweet potato,,,,,,,,,Starting Now,Last Chance,,
 wisconsin,tarragon,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
@@ -5315,7 +5315,7 @@ wisconsin,tomatoes,Tomato,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 wisconsin,turnips,Turnip,,,,,,Starting Now,Last Chance,,,Starting Now,Prime Time,Last Chance
 wisconsin,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 wisconsin,watermelon,Watermelon,,,,,,,,Starting Now,Prime Time,Last Chance,,
-wisconsin,winter-squash,Winter squash,,,,,,,,Starting Now,Prime Time,Last Chance,,
+wisconsin,winter-squash,Pumpkin,,,,,,,,Starting Now,Prime Time,Last Chance,,
 wisconsin,zucchini,Zucchini,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 wyoming,apples,Apple,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 wyoming,arugula,Rocket,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last Chance,,,
@@ -5402,7 +5402,7 @@ wyoming,sorrel,X,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,La
 wyoming,spinach,Spinach,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,,
 wyoming,sprouts,X,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time
 wyoming,strawberries,Strawberry,,,,,,Starting Now,Last Chance,,,,,
-wyoming,summer-squash,Summer squash,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
+wyoming,summer-squash,Zucchini,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
 wyoming,sunchokes,Jerusalem artichoke,,,,,,,Starting Now,Last Chance,,,,
 wyoming,tarragon,X,,,,Starting Now,Prime Time,Last Chance,,,,,,
 wyoming,thyme,X,,,,Starting Now,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Prime Time,Last Chance,
@@ -5411,5 +5411,5 @@ wyoming,tomatoes,Tomato,,,,,,,Starting Now,Prime Time,Prime Time,Prime Time,Last
 wyoming,turnips,Turnip,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
 wyoming,watercress,X,,,,Starting Now,Prime Time,Prime Time,Last Chance,,,,,
 wyoming,watermelon,Watermelon,,,,,,,,Starting Now,Last Chance,,,
-wyoming,winter-squash,Winter squash,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
+wyoming,winter-squash,Pumpkin,,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,
 wyoming,zucchini,Zucchini,,,,,,,Starting Now,Prime Time,Prime Time,Last Chance,,
