@@ -889,12 +889,12 @@
     ]
   },
   {
-    "id": "",
-    "nameNL": "",
+    "id": "66",
+    "nameNL": "Abrikoos",
     "nameEN": "Abricot",
-    "nameDE": "",
+    "nameDE": "Aprikose",
     "nameUS": "Apricot",
-    "image": "",
+    "image": "apricot",
     "LC": [
       8
     ],
@@ -906,9 +906,9 @@
   },
   {
     "id": "",
-    "nameNL": "",
+    "nameNL": "Netmeloen",
     "nameEN": "Cantaloupe",
-    "nameDE": "",
+    "nameDE": "Kantalupe",
     "nameUS": "Cantaloupe",
     "image": "",
     "LC": [
@@ -924,12 +924,12 @@
     ]
   },
   {
-    "id": "",
-    "nameNL": "",
+    "id": "75",
+    "nameNL": "Snijbiet",
     "nameEN": "Chard",
-    "nameDE": "",
+    "nameDE": "Mangold",
     "nameUS": "Chard",
-    "image": "",
+    "image": "chard",
     "LC": [
       11
     ],
@@ -947,9 +947,9 @@
   },
   {
     "id": "",
-    "nameNL": "",
+    "nameNL": "Bladkool",
     "nameEN": "Collard greens",
-    "nameDE": "",
+    "nameDE": "Blattkohl",
     "nameUS": "Collard greens",
     "image": "",
     "LC": [
@@ -968,9 +968,9 @@
   },
   {
     "id": "",
-    "nameNL": "",
+    "nameNL": "Kruisbes",
     "nameEN": "Gooseberry",
-    "nameDE": "",
+    "nameDE": "Stachelbeeren",
     "nameUS": "Gooseberry",
     "image": "",
     "LC": [
@@ -985,12 +985,12 @@
     ]
   },
   {
-    "id": "",
-    "nameNL": "",
+    "id": "73",
+    "nameNL": "Druiven",
     "nameEN": "Grapes",
-    "nameDE": "",
+    "nameDE": "Trauben",
     "nameUS": "Grapes",
-    "image": "",
+    "image": "grapes",
     "LC": [
       10
     ],
@@ -1003,12 +1003,12 @@
     ]
   },
   {
-    "id": "",
-    "nameNL": "",
+    "id": "46",
+    "nameNL": "Sperzieboon",
     "nameEN": "Green bean",
-    "nameDE": "",
+    "nameDE": "Grüne Bohnen",
     "nameUS": "Green bean",
-    "image": "",
+    "image": "greenbeans",
     "LC": [
       10
     ],
@@ -1024,9 +1024,9 @@
   },
   {
     "id": "",
-    "nameNL": "",
+    "nameNL": "Mierikswortel",
     "nameEN": "Horseradish",
-    "nameDE": "",
+    "nameDE": "Meerrettich",
     "nameUS": "Horseradish",
     "image": "",
     "LC": [
@@ -1046,12 +1046,12 @@
     ]
   },
   {
-    "id": "",
-    "nameNL": "",
+    "id": "59",
+    "nameNL": "Aardpeer",
     "nameEN": "Jerusalem artichoke",
-    "nameDE": "",
+    "nameDE": "Topinambur",
     "nameUS": "Jerusalem artichoke",
-    "image": "",
+    "image": "jerusalemartichoke",
     "LC": [
       1
     ],
@@ -1065,12 +1065,12 @@
     ]
   },
   {
-    "id": "",
-    "nameNL": "",
+    "id": "70",
+    "nameNL": "Nectarine",
     "nameEN": "Nectarine",
-    "nameDE": "",
+    "nameDE": "Nektarine",
     "nameUS": "Nectarine",
-    "image": "",
+    "image": "nectarine",
     "LC": [
       9
     ],
@@ -1084,9 +1084,9 @@
   },
   {
     "id": "",
-    "nameNL": "",
+    "nameNL": "Okra",
     "nameEN": "Okra",
-    "nameDE": "",
+    "nameDE": "Okraschote",
     "nameUS": "Okra",
     "image": "",
     "LC": [
@@ -1102,9 +1102,9 @@
   },
   {
     "id": "",
-    "nameNL": "",
+    "nameNL": "Pawpaw",
     "nameEN": "Pawpaw",
-    "nameDE": "",
+    "nameDE": "Papau",
     "nameUS": "Pawpaw",
     "image": "",
     "LC": [
@@ -1117,12 +1117,12 @@
     ]
   },
   {
-    "id": "",
-    "nameNL": "",
+    "id": "69",
+    "nameNL": "Perzik",
     "nameEN": "Peach",
-    "nameDE": "",
+    "nameDE": "Pfirsich",
     "nameUS": "Peach",
-    "image": "",
+    "image": "peach",
     "LC": [
       9
     ],
@@ -1136,9 +1136,9 @@
   },
   {
     "id": "",
-    "nameNL": "",
+    "nameNL": "Postelein",
     "nameEN": "Purslane",
-    "nameDE": "",
+    "nameDE": "Portulak",
     "nameUS": "Purslane",
     "image": "",
     "LC": [
@@ -1159,9 +1159,9 @@
   },
   {
     "id": "",
-    "nameNL": "",
+    "nameNL": "Kweepeer",
     "nameEN": "Quince",
-    "nameDE": "",
+    "nameDE": "Quitte",
     "nameUS": "Quince",
     "image": "",
     "LC": [
@@ -1177,9 +1177,9 @@
   },
   {
     "id": "",
-    "nameNL": "",
+    "nameNL": "Radicchio",
     "nameEN": "Radicchio",
-    "nameDE": "",
+    "nameDE": "Radicchio",
     "nameUS": "Radicchio",
     "image": "",
     "LC": [
@@ -1196,9 +1196,9 @@
   },
   {
     "id": "",
-    "nameNL": "",
+    "nameNL": "Peultjes",
     "nameEN": "Snow peas",
-    "nameDE": "",
+    "nameDE": "Zuckerschoten",
     "nameUS": "Snow peas",
     "image": "",
     "LC": [
@@ -1215,9 +1215,9 @@
   },
   {
     "id": "",
-    "nameNL": "",
+    "nameNL": "Sugar snaps",
     "nameEN": "Sugar snaps",
-    "nameDE": "",
+    "nameDE": "Zuckerschoten",
     "nameUS": "Sugar snap peas",
     "image": "",
     "LC": [
@@ -1233,12 +1233,12 @@
     ]
   },
   {
-    "id": "",
-    "nameNL": "",
+    "id": "77",
+    "nameNL": "Knolraap",
     "nameEN": "Turnip",
-    "nameDE": "",
+    "nameDE": "Rübe",
     "nameUS": "Turnip",
-    "image": "",
+    "image": "turnip",
     "LC": [
       3
     ],
@@ -1257,12 +1257,12 @@
     ]
   },
   {
-    "id": "",
-    "nameNL": "",
+    "id": "67",
+    "nameNL": "Watermeloen",
     "nameEN": "Watermelon",
-    "nameDE": "",
+    "nameDE": "Wassermelone",
     "nameUS": "Watermelon",
-    "image": "",
+    "image": "watermelon",
     "LC": [
       10
     ],
