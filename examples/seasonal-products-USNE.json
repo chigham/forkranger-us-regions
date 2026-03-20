@@ -183,7 +183,7 @@
     "id": 11,
     "nameNL": "Boerenkool",
     "nameEN": "Kale",
-    "nameDE": "Gr\u00fcnkohl",
+    "nameDE": "Grünkohl",
     "nameUS": "Kale",
     "image": "kale",
     "LC": [
@@ -380,7 +380,7 @@
     "id": 21,
     "nameNL": "Koolraap",
     "nameEN": "Swede",
-    "nameDE": "Steckr\u00fcbe",
+    "nameDE": "Steckrübe",
     "nameUS": "Rutabaga",
     "image": "swede",
     "LC": [
@@ -447,7 +447,7 @@
     "id": 24,
     "nameNL": "Lente-ui",
     "nameEN": "Spring onion",
-    "nameDE": "Fr\u00fchlingszwiebel",
+    "nameDE": "Frühlingszwiebel",
     "nameUS": "Green onion",
     "image": "springonion",
     "LC": [
@@ -573,7 +573,7 @@
     "id": 31,
     "nameNL": "Pompoen",
     "nameEN": "Pumpkin",
-    "nameDE": "K\u00fcrbis",
+    "nameDE": "Kürbis",
     "nameUS": "Pumpkin",
     "image": "pumpkin",
     "LC": [
@@ -743,7 +743,7 @@
     "id": "46",
     "nameNL": "Sperzieboon",
     "nameEN": "Green bean",
-    "nameDE": "Gr\u00fcne Bohnen",
+    "nameDE": "Grüne Bohnen",
     "nameUS": "Green bean",
     "image": "greenbeans",
     "LC": [
@@ -844,7 +844,7 @@
     "id": 56,
     "nameNL": "Witlof",
     "nameEN": "Chicory",
-    "nameDE": "Chicor\u00e9e",
+    "nameDE": "Chicorée",
     "nameUS": "Chicory",
     "image": "chicory",
     "LC": [
@@ -860,7 +860,7 @@
     "id": 57,
     "nameNL": "Wittekool",
     "nameEN": "White cabbage",
-    "nameDE": "Wei\u00dfkohl",
+    "nameDE": "Weißkohl",
     "nameUS": "White cabbage",
     "image": "whitecabbage",
     "LC": [
@@ -1042,7 +1042,7 @@
     "id": "77",
     "nameNL": "Knolraap",
     "nameEN": "Turnip",
-    "nameDE": "R\u00fcbe",
+    "nameDE": "Rübe",
     "nameUS": "Turnip",
     "image": "turnip",
     "LC": [
