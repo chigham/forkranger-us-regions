@@ -1,7 +1,9 @@
 [
   {
     "id": 1,
+    "nameNL": "Aardappel",
     "nameEN": "Potato",
+    "nameDE": "Kartoffel",
     "image": "potato",
     "LC": [
       4
@@ -25,7 +27,9 @@
   },
   {
     "id": 2,
+    "nameNL": "Aardbei",
     "nameEN": "Strawberry",
+    "nameDE": "Erdbeere",
     "image": "strawberry",
     "LC": [
       7
@@ -40,7 +44,9 @@
   },
   {
     "id": 4,
+    "nameNL": "Andijvie",
     "nameEN": "Endive",
+    "nameDE": "Endivie",
     "image": "endive",
     "LC": [
       10
@@ -53,7 +59,9 @@
   },
   {
     "id": 5,
+    "nameNL": "Appel",
     "nameEN": "Apple",
+    "nameDE": "Apfel",
     "image": "apple",
     "LC": [
       3
@@ -74,7 +82,9 @@
   },
   {
     "id": 6,
+    "nameNL": "Asperge",
     "nameEN": "Asparagus",
+    "nameDE": "Spargel",
     "image": "asparagus",
     "LC": [
       6
@@ -89,7 +99,9 @@
   },
   {
     "id": 7,
+    "nameNL": "Aubergine",
     "nameEN": "Aubergine",
+    "nameDE": "Aubergine",
     "image": "aubergine",
     "LC": [
       10
@@ -105,7 +117,9 @@
   },
   {
     "id": 8,
+    "nameNL": "Blauwe bes",
     "nameEN": "Blueberry",
+    "nameDE": "Blaubeere",
     "image": "blueberries",
     "LC": [
       9
@@ -121,7 +135,9 @@
   },
   {
     "id": 9,
+    "nameNL": "Bleekselderij",
     "nameEN": "Celery",
+    "nameDE": "Sellerie",
     "image": "celery",
     "LC": [
       11
@@ -137,7 +153,9 @@
   },
   {
     "id": 10,
+    "nameNL": "Bloemkool",
     "nameEN": "Cauliflower",
+    "nameDE": "Blumenkohl",
     "image": "cauliflower",
     "LC": [
       11
@@ -154,7 +172,9 @@
   },
   {
     "id": 11,
+    "nameNL": "Boerenkool",
     "nameEN": "Kale",
+    "nameDE": "Gr\u00fcnkohl",
     "image": "kale",
     "LC": [
       12
@@ -173,7 +193,9 @@
   },
   {
     "id": 12,
+    "nameNL": "Braam",
     "nameEN": "Blackberry",
+    "nameDE": "Brombeere",
     "image": "blackberry",
     "LC": [
       9
@@ -188,7 +210,9 @@
   },
   {
     "id": 13,
+    "nameNL": "Broccoli",
     "nameEN": "Broccoli",
+    "nameDE": "Brokkoli",
     "image": "broccoli",
     "LC": [
       11
@@ -207,7 +231,9 @@
   },
   {
     "id": 14,
+    "nameNL": "Chinese kool",
     "nameEN": "Chinese Cabbage",
+    "nameDE": "Chinakohl",
     "image": "chinesecabbage",
     "LC": [
       11
@@ -224,7 +250,9 @@
   },
   {
     "id": 15,
+    "nameNL": "Courgette",
     "nameEN": "Zucchini",
+    "nameDE": "Zucchini",
     "image": "zucchini",
     "LC": [
       10
@@ -241,7 +269,9 @@
   },
   {
     "id": 16,
+    "nameNL": "Doperwt",
     "nameEN": "Peas",
+    "nameDE": "Erbsen",
     "image": "peas",
     "LC": [
       10
@@ -259,7 +289,9 @@
   },
   {
     "id": 17,
+    "nameNL": "Framboos",
     "nameEN": "Raspberry",
+    "nameDE": "Himbeere",
     "image": "raspberry",
     "LC": [
       10
@@ -275,7 +307,9 @@
   },
   {
     "id": 18,
+    "nameNL": "Kers",
     "nameEN": "Cherry",
+    "nameDE": "Kirsche",
     "image": "cherry",
     "LC": [
       7
@@ -288,7 +322,9 @@
   },
   {
     "id": 19,
+    "nameNL": "Knolselderij",
     "nameEN": "Celeriac",
+    "nameDE": "Knollensellerie",
     "image": "celeriac",
     "LC": [
       11
@@ -304,7 +340,9 @@
   },
   {
     "id": 20,
+    "nameNL": "Komkommer",
     "nameEN": "Cucumber",
+    "nameDE": "Gurke",
     "image": "cucumber",
     "LC": [
       10
@@ -321,7 +359,9 @@
   },
   {
     "id": 21,
+    "nameNL": "Koolraap",
     "nameEN": "Swede",
+    "nameDE": "Steckr\u00fcbe",
     "image": "swede",
     "LC": [
       3
@@ -342,7 +382,9 @@
   },
   {
     "id": 22,
+    "nameNL": "Koolrabi",
     "nameEN": "Kohlrabi",
+    "nameDE": "Kohlrabi",
     "image": "kohlrabi",
     "LC": [
       10
@@ -360,7 +402,9 @@
   },
   {
     "id": 23,
+    "nameNL": "Sla",
     "nameEN": "Lettuce",
+    "nameDE": "Salat",
     "image": "lettuce",
     "LC": [
       11
@@ -379,7 +423,9 @@
   },
   {
     "id": 25,
+    "nameNL": "Mais",
     "nameEN": "Corn",
+    "nameDE": "Mais",
     "image": "corn",
     "LC": [
       10
@@ -396,7 +442,9 @@
   },
   {
     "id": 28,
+    "nameNL": "Paprika",
     "nameEN": "Bell pepper",
+    "nameDE": "Paprika",
     "image": "bellpepper",
     "LC": [
       10
@@ -412,7 +460,9 @@
   },
   {
     "id": 29,
+    "nameNL": "Pastinaak",
     "nameEN": "Parsnip",
+    "nameDE": "Pastinak",
     "image": "parsnip",
     "LC": [
       5
@@ -434,7 +484,9 @@
   },
   {
     "id": 30,
+    "nameNL": "Peer",
     "nameEN": "Pear",
+    "nameDE": "Birne",
     "image": "pear",
     "LC": [
       1
@@ -453,7 +505,9 @@
   },
   {
     "id": 31,
+    "nameNL": "Pompoen",
     "nameEN": "Pumpkin",
+    "nameDE": "K\u00fcrbis",
     "image": "pumpkin",
     "LC": [
       2
@@ -473,7 +527,9 @@
   },
   {
     "id": 32,
+    "nameNL": "Prei",
     "nameEN": "Leek",
+    "nameDE": "Lauch",
     "image": "leek",
     "LC": [
       1
@@ -492,7 +548,9 @@
   },
   {
     "id": 33,
+    "nameNL": "Pruim",
     "nameEN": "Plum",
+    "nameDE": "Pflaume",
     "image": "plum",
     "LC": [
       10
@@ -508,7 +566,9 @@
   },
   {
     "id": 36,
+    "nameNL": "Rabarber",
     "nameEN": "Rhubarb",
+    "nameDE": "Rhabarber",
     "image": "rhubarb",
     "LC": [
       7
@@ -523,7 +583,9 @@
   },
   {
     "id": 37,
+    "nameNL": "Radijs",
     "nameEN": "Radish",
+    "nameDE": "Radieschen",
     "image": "radish",
     "LC": [
       11
@@ -542,7 +604,9 @@
   },
   {
     "id": 39,
+    "nameNL": "Rode biet",
     "nameEN": "Beetroot",
+    "nameDE": "Rote Bete",
     "image": "beetroot",
     "LC": [
       2
@@ -564,7 +628,9 @@
   },
   {
     "id": 41,
+    "nameNL": "Rucola",
     "nameEN": "Rocket",
+    "nameDE": "Rucola",
     "image": "rucola",
     "LC": [
       11
@@ -583,7 +649,9 @@
   },
   {
     "id": 47,
+    "nameNL": "Spinazie",
     "nameEN": "Spinach",
+    "nameDE": "Spinat",
     "image": "spinach",
     "LC": [
       11
@@ -602,7 +670,9 @@
   },
   {
     "id": 49,
+    "nameNL": "Spruiten",
     "nameEN": "Brussels sprouts",
+    "nameDE": "Rosenkohl",
     "image": "brusselssprouts",
     "LC": [
       1
@@ -619,7 +689,9 @@
   },
   {
     "id": 50,
+    "nameNL": "Tomaat",
     "nameEN": "Tomato",
+    "nameDE": "Tomate",
     "image": "tomato",
     "LC": [
       10
@@ -635,7 +707,9 @@
   },
   {
     "id": 54,
+    "nameNL": "Venkel",
     "nameEN": "Fennel",
+    "nameDE": "Fenchel",
     "image": "fennel",
     "LC": [
       11
@@ -652,7 +726,9 @@
   },
   {
     "id": 56,
+    "nameNL": "Witlof",
     "nameEN": "Chicory",
+    "nameDE": "Chicor\u00e9e",
     "image": "chicory",
     "LC": [
       10
@@ -665,7 +741,9 @@
   },
   {
     "id": 57,
+    "nameNL": "Wittekool",
     "nameEN": "White cabbage",
+    "nameDE": "Wei\u00dfkohl",
     "image": "whitecabbage",
     "LC": [
       3
@@ -688,7 +766,9 @@
   },
   {
     "id": 58,
+    "nameNL": "Wortel",
     "nameEN": "Carrot",
+    "nameDE": "Karotte",
     "image": "carrot",
     "LC": [
       3
@@ -711,7 +791,9 @@
   },
   {
     "id": "",
+    "nameNL": "",
     "nameEN": "Abricot",
+    "nameDE": "",
     "image": "",
     "LC": [
       8
@@ -724,7 +806,9 @@
   },
   {
     "id": "",
+    "nameNL": "",
     "nameEN": "Bok choy",
+    "nameDE": "",
     "image": "",
     "LC": [
       10
@@ -740,7 +824,9 @@
   },
   {
     "id": "",
+    "nameNL": "",
     "nameEN": "Cantaloupe",
+    "nameDE": "",
     "image": "",
     "LC": [
       10
@@ -756,7 +842,9 @@
   },
   {
     "id": "",
+    "nameNL": "",
     "nameEN": "Chard",
+    "nameDE": "",
     "image": "",
     "LC": [
       11
@@ -775,7 +863,9 @@
   },
   {
     "id": "",
+    "nameNL": "",
     "nameEN": "Collard greens",
+    "nameDE": "",
     "image": "",
     "LC": [
       11
@@ -793,7 +883,9 @@
   },
   {
     "id": "",
+    "nameNL": "",
     "nameEN": "Gooseberry",
+    "nameDE": "",
     "image": "",
     "LC": [
       8
@@ -808,7 +900,9 @@
   },
   {
     "id": "",
+    "nameNL": "",
     "nameEN": "Grapes",
+    "nameDE": "",
     "image": "",
     "LC": [
       10
@@ -823,7 +917,9 @@
   },
   {
     "id": "",
+    "nameNL": "",
     "nameEN": "Green bean",
+    "nameDE": "",
     "image": "",
     "LC": [
       10
@@ -840,7 +936,9 @@
   },
   {
     "id": "",
+    "nameNL": "",
     "nameEN": "Green onion",
+    "nameDE": "",
     "image": "",
     "LC": [
       10
@@ -858,7 +956,9 @@
   },
   {
     "id": "",
+    "nameNL": "",
     "nameEN": "Horseradish",
+    "nameDE": "",
     "image": "",
     "LC": [
       4
@@ -878,7 +978,9 @@
   },
   {
     "id": "",
+    "nameNL": "",
     "nameEN": "Jerusalem artichoke",
+    "nameDE": "",
     "image": "",
     "LC": [
       1
@@ -894,7 +996,9 @@
   },
   {
     "id": "",
+    "nameNL": "",
     "nameEN": "Nectarine",
+    "nameDE": "",
     "image": "",
     "LC": [
       9
@@ -909,7 +1013,9 @@
   },
   {
     "id": "",
+    "nameNL": "",
     "nameEN": "Okra",
+    "nameDE": "",
     "image": "",
     "LC": [
       9
@@ -924,7 +1030,9 @@
   },
   {
     "id": "",
+    "nameNL": "",
     "nameEN": "Pawpaw",
+    "nameDE": "",
     "image": "",
     "LC": [
       10
@@ -937,7 +1045,9 @@
   },
   {
     "id": "",
+    "nameNL": "",
     "nameEN": "Peach",
+    "nameDE": "",
     "image": "",
     "LC": [
       9
@@ -952,7 +1062,9 @@
   },
   {
     "id": "",
+    "nameNL": "",
     "nameEN": "Purslane",
+    "nameDE": "",
     "image": "",
     "LC": [
       11
@@ -972,7 +1084,9 @@
   },
   {
     "id": "",
+    "nameNL": "",
     "nameEN": "Quince",
+    "nameDE": "",
     "image": "",
     "LC": [
       11
@@ -987,7 +1101,9 @@
   },
   {
     "id": "",
+    "nameNL": "",
     "nameEN": "Radicchio",
+    "nameDE": "",
     "image": "",
     "LC": [
       11
@@ -1003,7 +1119,9 @@
   },
   {
     "id": "",
+    "nameNL": "",
     "nameEN": "Salsify",
+    "nameDE": "",
     "image": "",
     "LC": [
       1
@@ -1019,7 +1137,9 @@
   },
   {
     "id": "",
+    "nameNL": "",
     "nameEN": "Snow peas",
+    "nameDE": "",
     "image": "",
     "LC": [
       9
@@ -1035,7 +1155,9 @@
   },
   {
     "id": "",
+    "nameNL": "",
     "nameEN": "Sugar snaps",
+    "nameDE": "",
     "image": "",
     "LC": [
       9
@@ -1051,7 +1173,9 @@
   },
   {
     "id": "",
+    "nameNL": "",
     "nameEN": "Turnip",
+    "nameDE": "",
     "image": "",
     "LC": [
       3
@@ -1072,7 +1196,9 @@
   },
   {
     "id": "",
+    "nameNL": "",
     "nameEN": "Watermelon",
+    "nameDE": "",
     "image": "",
     "LC": [
       10

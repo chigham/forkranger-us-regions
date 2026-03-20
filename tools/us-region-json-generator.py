@@ -25,6 +25,16 @@ def fr_image_from_en_name_mapper(df: pd.DataFrame) -> dict[str, str]:
 
     return dict(zip(df["nameEN"], df["image"]))
 
+def fr_nameNL_from_en_name_mapper(df: pd.DataFrame) -> dict[str, str]:
+    """Creates a mapping from English Vegetable Name to Fork Ranger Dutch name."""
+
+    return dict(zip(df["nameEN"], df["nameNL"]))
+
+def fr_nameDE_from_en_name_mapper(df: pd.DataFrame) -> dict[str, str]:
+    """Creates a mapping from English Vegetable Name to Fork Ranger German name."""
+
+    return dict(zip(df["nameEN"], df["nameDE"]))
+
 new_us_veggies = {
     "Collard greens": "", 
     "Green onion": "", 
@@ -62,6 +72,8 @@ if __name__ == "__main__":
 
     name_to_id = fr_id_from_en_name_mapper(seasonal_products_df)
     name_to_image = fr_image_from_en_name_mapper(seasonal_products_df)
+    name_to_nameNL = fr_nameNL_from_en_name_mapper(seasonal_products_df)
+    name_to_nameDE = fr_nameDE_from_en_name_mapper(seasonal_products_df)
 
     sheet_name = "North-East"
     data = pd.read_excel(r"data\truth_states\State-Truths-v3.xlsx", sheet_name=sheet_name)
@@ -73,7 +85,7 @@ if __name__ == "__main__":
     # Convert data to a list of dictionaries for each row where the keys are "GFS", "LC", "PT", "SN", and "nameEN", and the values of the first four keys are lists containing the ordered integer column names that contain that key as a value, and the value of "nameEN" is that value in the "nameEN" column for that row.
     data_dicts = []
     for _, row in data.iterrows():
-        row_dict = {"nameEN": row["nameEN"], "id": name_to_id.get(row["nameEN"], ""), "image": name_to_image.get(row["nameEN"], ""), "GFS": [], "LC": [], "PT": [], "SN": []}
+        row_dict = {"nameEN": row["nameEN"], "id": name_to_id.get(row["nameEN"], ""), "nameNL": name_to_nameNL.get(row["nameEN"], ""), "nameDE": name_to_nameDE.get(row["nameEN"], ""), "image": name_to_image.get(row["nameEN"], ""), "GFS": [], "LC": [], "PT": [], "SN": []}
         for month in range(1, 13):
             value = row[month]
             if value in ["GFS", "LC", "PT", "SN"]:
@@ -82,8 +94,8 @@ if __name__ == "__main__":
     
     data_dicts.sort(key=lambda x: (int(x["id"]) if x["id"] else float("inf"), x["nameEN"]))
 
-    # Reorder keys: id, nameEN, LC, GFS, PT, SN
-    ordered_keys = ["id", "nameEN", "image", "LC", "GFS", "PT", "SN"]
+    # Reorder keys matching seasonal-products.json: id, nameNL, nameEN, nameDE, image, LC, GFS, PT, SN
+    ordered_keys = ["id", "nameNL", "nameEN", "nameDE", "image", "LC", "GFS", "PT", "SN"]
     data_dicts = [{k: d[k] for k in ordered_keys} for d in data_dicts]
 
     print()
