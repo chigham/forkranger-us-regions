@@ -54,6 +54,8 @@ if __name__ == "__main__":
     seasonal_products = json.loads(requests.get(fr_json_path).content)
     pprint(seasonal_products)
 
+    name_to_id = fr_id_from_en_name_mapper(seasonal_products_df)
+
     sheet_name = "North-East"
     data = pd.read_excel(r"data\truth_states\State-Truths-v3.xlsx", sheet_name=sheet_name)
     data = data[["name", "truth", 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]]
@@ -64,7 +66,7 @@ if __name__ == "__main__":
     # Convert data to a list of dictionaries for each row where the keys are "GFS", "LC", "PT", "SN", and "nameEN", and the values of the first four keys are lists containing the ordered integer column names that contain that key as a value, and the value of "nameEN" is that value in the "nameEN" column for that row.
     data_dicts = []
     for _, row in data.iterrows():
-        row_dict = {"nameEN": row["nameEN"], "GFS": [], "LC": [], "PT": [], "SN": []}
+        row_dict = {"nameEN": row["nameEN"], "id": name_to_id.get(row["nameEN"], ""), "GFS": [], "LC": [], "PT": [], "SN": []}
         for month in range(1, 13):
             value = row[month]
             if value in ["GFS", "LC", "PT", "SN"]:
