@@ -85,7 +85,15 @@ if __name__ == "__main__":
     # Convert data to a list of dictionaries for each row where the keys are "GFS", "LC", "PT", "SN", and "nameEN", and the values of the first four keys are lists containing the ordered integer column names that contain that key as a value, and the value of "nameEN" is that value in the "nameEN" column for that row.
     data_dicts = []
     for _, row in data.iterrows():
-        row_dict = {"nameEN": row["nameEN"], "id": name_to_id.get(row["nameEN"], ""), "nameNL": name_to_nameNL.get(row["nameEN"], ""), "nameDE": name_to_nameDE.get(row["nameEN"], ""), "image": name_to_image.get(row["nameEN"], ""), "GFS": [], "LC": [], "PT": [], "SN": []}
+        row_dict = {
+            "nameEN": row["nameEN"], 
+            "id": name_to_id.get(row["nameEN"], ""), 
+            "nameNL": name_to_nameNL.get(row["nameEN"], ""), 
+            "nameDE": name_to_nameDE.get(row["nameEN"], ""), 
+            "nameUS": row["nameEN"], 
+            "image": name_to_image.get(row["nameEN"], ""), 
+            "GFS": [], "LC": [], "PT": [], "SN": []
+        }
         for month in range(1, 13):
             value = row[month]
             if value in ["GFS", "LC", "PT", "SN"]:
@@ -94,8 +102,8 @@ if __name__ == "__main__":
     
     data_dicts.sort(key=lambda x: (int(x["id"]) if x["id"] else float("inf"), x["nameEN"]))
 
-    # Reorder keys matching seasonal-products.json: id, nameNL, nameEN, nameDE, image, LC, GFS, PT, SN
-    ordered_keys = ["id", "nameNL", "nameEN", "nameDE", "image", "LC", "GFS", "PT", "SN"]
+    # Reorder keys matching seasonal-products.json
+    ordered_keys = ["id", "nameNL", "nameEN", "nameDE", "nameUS", "image", "LC", "GFS", "PT", "SN"]
     data_dicts = [{k: d[k] for k in ordered_keys} for d in data_dicts]
 
     print()
