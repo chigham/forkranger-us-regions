@@ -73,6 +73,8 @@ if __name__ == "__main__":
                 row_dict[value].append(month)
         data_dicts.append(row_dict)
     
+    data_dicts.sort(key=lambda x: (int(x["id"]) if x["id"] else float("inf"), x["nameEN"]))
+
     print()
     print("     ==================================     ")
     print("     ==================================     ")
