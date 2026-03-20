@@ -107,7 +107,7 @@
     "nameNL": "Aubergine",
     "nameEN": "Aubergine",
     "nameDE": "Aubergine",
-    "nameUS": "Aubergine",
+    "nameUS": "Eggplant",
     "image": "aubergine",
     "LC": [
       10
@@ -342,7 +342,7 @@
     "nameNL": "Knolselderij",
     "nameEN": "Celeriac",
     "nameDE": "Knollensellerie",
-    "nameUS": "Celeriac",
+    "nameUS": "Celery Root",
     "image": "celeriac",
     "LC": [
       11
@@ -381,7 +381,7 @@
     "nameNL": "Koolraap",
     "nameEN": "Swede",
     "nameDE": "Steckr\u00fcbe",
-    "nameUS": "Swede",
+    "nameUS": "Rutabaga",
     "image": "swede",
     "LC": [
       3
@@ -444,6 +444,27 @@
     ]
   },
   {
+    "id": 24,
+    "nameNL": "Lente-ui",
+    "nameEN": "Spring onion",
+    "nameDE": "Fr\u00fchlingszwiebel",
+    "nameUS": "Green onion",
+    "image": "springonion",
+    "LC": [
+      10
+    ],
+    "GFS": [],
+    "PT": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "SN": [
+      5
+    ]
+  },
+  {
     "id": 25,
     "nameNL": "Mais",
     "nameEN": "Corn",
@@ -461,6 +482,25 @@
     ],
     "SN": [
       6
+    ]
+  },
+  {
+    "id": 27,
+    "nameNL": "Paksoi",
+    "nameEN": "Pak choi",
+    "nameDE": "Pak Choi",
+    "nameUS": "Bok choy",
+    "image": "bokchoy",
+    "LC": [
+      10
+    ],
+    "GFS": [],
+    "PT": [
+      8,
+      9
+    ],
+    "SN": [
+      7
     ]
   },
   {
@@ -638,7 +678,7 @@
     "nameNL": "Rode biet",
     "nameEN": "Beetroot",
     "nameDE": "Rote Bete",
-    "nameUS": "Beetroot",
+    "nameUS": "Beet",
     "image": "beetroot",
     "LC": [
       2
@@ -678,6 +718,25 @@
     ],
     "SN": [
       5
+    ]
+  },
+  {
+    "id": 43,
+    "nameNL": "Schorseneer",
+    "nameEN": "Black salsify",
+    "nameDE": "Schwarzwurzeln",
+    "nameUS": "Salsify",
+    "image": "blacksalsify",
+    "LC": [
+      1
+    ],
+    "GFS": [],
+    "PT": [
+      11,
+      12
+    ],
+    "SN": [
+      10
     ]
   },
   {
@@ -834,32 +893,13 @@
     "nameNL": "",
     "nameEN": "Abricot",
     "nameDE": "",
-    "nameUS": "Abricot",
+    "nameUS": "Apricot",
     "image": "",
     "LC": [
       8
     ],
     "GFS": [],
     "PT": [],
-    "SN": [
-      7
-    ]
-  },
-  {
-    "id": "",
-    "nameNL": "",
-    "nameEN": "Bok choy",
-    "nameDE": "",
-    "nameUS": "Bok choy",
-    "image": "",
-    "LC": [
-      10
-    ],
-    "GFS": [],
-    "PT": [
-      8,
-      9
-    ],
     "SN": [
       7
     ]
@@ -980,27 +1020,6 @@
     ],
     "SN": [
       6
-    ]
-  },
-  {
-    "id": "",
-    "nameNL": "",
-    "nameEN": "Green onion",
-    "nameDE": "",
-    "nameUS": "Green onion",
-    "image": "",
-    "LC": [
-      10
-    ],
-    "GFS": [],
-    "PT": [
-      6,
-      7,
-      8,
-      9
-    ],
-    "SN": [
-      5
     ]
   },
   {
@@ -1178,25 +1197,6 @@
   {
     "id": "",
     "nameNL": "",
-    "nameEN": "Salsify",
-    "nameDE": "",
-    "nameUS": "Salsify",
-    "image": "",
-    "LC": [
-      1
-    ],
-    "GFS": [],
-    "PT": [
-      11,
-      12
-    ],
-    "SN": [
-      10
-    ]
-  },
-  {
-    "id": "",
-    "nameNL": "",
     "nameEN": "Snow peas",
     "nameDE": "",
     "nameUS": "Snow peas",
@@ -1218,7 +1218,7 @@
     "nameNL": "",
     "nameEN": "Sugar snaps",
     "nameDE": "",
-    "nameUS": "Sugar snaps",
+    "nameUS": "Sugar snap peas",
     "image": "",
     "LC": [
       9

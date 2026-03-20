@@ -35,6 +35,80 @@ def fr_nameDE_from_en_name_mapper(df: pd.DataFrame) -> dict[str, str]:
 
     return dict(zip(df["nameEN"], df["nameDE"]))
 
+def nameEN_to_nameUS(data_dicts: list[dict[str, any]]) -> dict[str, str]:
+    """Creates a mapping from nameEN to nameUS from a list of product dictionaries."""
+
+    return {d["nameEN"]: d["nameUS"] for d in data_dicts}
+
+
+en_to_us_mapper = {
+	'Abricot': 'Apricot',
+	'Apple': 'Apple',
+	'Asparagus': 'Asparagus',
+	'Aubergine': 'Eggplant',
+	'Beetroot': 'Beet',
+	'Bell pepper': 'Bell pepper',
+	'Blackberry': 'Blackberry',
+	'Blueberry': 'Blueberry',
+	'Pak choi': 'Bok choy',
+	'Broccoli': 'Broccoli',
+	'Brussels sprouts': 'Brussels sprouts',
+	'Cantaloupe': 'Cantaloupe',
+	'Carrot': 'Carrot',
+	'Cauliflower': 'Cauliflower',
+	'Celeriac': 'Celery Root',
+	'Celery': 'Celery',
+	'Chard': 'Chard',
+	'Cherry': 'Cherry',
+	'Chicory': 'Chicory',
+	'Chinese cabbage': 'Chinese cabbage',
+	'Collard greens': 'Collard greens',
+	'Corn': 'Corn',
+	'Cucumber': 'Cucumber',
+	'Endive': 'Endive',
+	'Fennel': 'Fennel',
+	'Gooseberry': 'Gooseberry',
+	'Grapes': 'Grapes',
+	'Green bean': 'Green bean',
+	'Spring onion': 'Green onion',
+	'Horseradish': 'Horseradish',
+	'Jerusalem artichoke': 'Jerusalem artichoke',
+	'Kale': 'Kale',
+	'Kohlrabi': 'Kohlrabi',
+	'Leek': 'Leek',
+	'Lettuce': 'Lettuce',
+	'Nectarine': 'Nectarine',
+	'Okra': 'Okra',
+	'Parsnip': 'Parsnip',
+	'Pawpaw': 'Pawpaw',
+	'Peach': 'Peach',
+	'Pear': 'Pear',
+	'Peas': 'Peas',
+	'Plum': 'Plum',
+	'Potato': 'Potato',
+	'Pumpkin': 'Pumpkin',
+	'Purslane': 'Purslane',
+	'Quince': 'Quince',
+	'Radicchio': 'Radicchio',
+	'Radish': 'Radish',
+	'Raspberry': 'Raspberry',
+	'Rhubarb': 'Rhubarb',
+	'Rocket': 'Rocket',
+	'Black salsify': 'Salsify',
+	'Snow peas': 'Snow peas',
+	'Spinach': 'Spinach',
+	'Strawberry': 'Strawberry',
+	'Sugar snaps': 'Sugar snap peas',
+	'Swede': 'Rutabaga',
+	'Tomato': 'Tomato',
+	'Turnip': 'Turnip',
+	'Watermelon': 'Watermelon',
+	'White cabbage': 'White cabbage',
+	'Zucchini': 'Zucchini'
+}
+
+us_to_en_mapper = {v: k for k, v in en_to_us_mapper.items()}
+
 new_us_veggies = {
     "Collard greens": "", 
     "Green onion": "", 
@@ -85,13 +159,23 @@ if __name__ == "__main__":
     # Convert data to a list of dictionaries for each row where the keys are "GFS", "LC", "PT", "SN", and "nameEN", and the values of the first four keys are lists containing the ordered integer column names that contain that key as a value, and the value of "nameEN" is that value in the "nameEN" column for that row.
     data_dicts = []
     for _, row in data.iterrows():
+        raw_name = row["nameEN"]
+        if raw_name in en_to_us_mapper:
+            name_en = raw_name
+            name_us = en_to_us_mapper[raw_name]
+        elif raw_name in us_to_en_mapper:
+            name_en = us_to_en_mapper[raw_name]
+            name_us = raw_name
+        else:
+            name_en = raw_name
+            name_us = raw_name
         row_dict = {
-            "nameEN": row["nameEN"], 
-            "id": name_to_id.get(row["nameEN"], ""), 
-            "nameNL": name_to_nameNL.get(row["nameEN"], ""), 
-            "nameDE": name_to_nameDE.get(row["nameEN"], ""), 
-            "nameUS": row["nameEN"], 
-            "image": name_to_image.get(row["nameEN"], ""), 
+            "nameEN": name_en, 
+            "id": name_to_id.get(name_en, ""), 
+            "nameNL": name_to_nameNL.get(name_en, ""), 
+            "nameDE": name_to_nameDE.get(name_en, ""), 
+            "nameUS": name_us, 
+            "image": name_to_image.get(name_en, ""), 
             "GFS": [], "LC": [], "PT": [], "SN": []
         }
         for month in range(1, 13):
