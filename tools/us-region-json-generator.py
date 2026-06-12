@@ -60,12 +60,12 @@ en_to_us_mapper = {
 	'Celery': 'Celery',
 	'Chard': 'Chard',
 	'Cherry': 'Cherry',
-	'Chicory': 'Chicory',
+	'Chicory': 'Belgian endive',
 	'Chinese cabbage': 'Chinese cabbage',
 	'Collard greens': 'Collard greens',
 	'Corn': 'Corn',
 	'Cucumber': 'Cucumber',
-	'Endive': 'Endive',
+	'Endive': 'Curly endive',
 	'Fennel': 'Fennel',
 	'Gooseberry': 'Gooseberry',
 	'Grapes': 'Grapes',
@@ -141,7 +141,7 @@ if __name__ == "__main__":
 
     fr_json_path = "https://github.com/jordibruin/forkrangerRecipes/blob/main/seasonal/seasonal-products.json?raw=true"
     seasonal_products_df = pd.read_json(fr_json_path)
-    seasonal_products = json.loads(requests.get(fr_json_path).content)
+    seasonal_products = json.loads(requests.get(fr_json_path).text)
     pprint(seasonal_products)
 
     name_to_id = fr_id_from_en_name_mapper(seasonal_products_df)
@@ -149,8 +149,8 @@ if __name__ == "__main__":
     name_to_nameNL = fr_nameNL_from_en_name_mapper(seasonal_products_df)
     name_to_nameDE = fr_nameDE_from_en_name_mapper(seasonal_products_df)
 
-    sheet_name = "North-East"
-    data = pd.read_excel(r"data\truth_states\State-Truths-v3.xlsx", sheet_name=sheet_name)
+    sheet_name = "North-East"  # TODO: Confirm this is updated every time
+    data = pd.read_excel(r"data\truth_states\State-Truths-v3.xlsx", sheet_name=sheet_name)  # TODO: Confirm this is updated every time
     data = data[["name", "truth", 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]]
     data = data[data["truth"] == "Fork Ranger"]
     data = data.drop(columns=["truth"])
@@ -198,11 +198,10 @@ if __name__ == "__main__":
     
     pprint(data_dicts)
 
-    # Format JSON matching seasonal-products.json style (2-space indent, empty lists inline)
-    raw_json = json.dumps(data_dicts, indent=2)
+    raw_json = json.dumps(data_dicts, indent=2, ensure_ascii=False)
     raw_json = re.sub(r'\[\s*\]', '[]', raw_json)
 
-    output_path = r"examples\seasonal-products-USNE.json"
+    output_path = r"examples\seasonal-products-USNE.json"  # TODO: Make sure the name matches the region and is updated every time
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(raw_json)
     print(f"\nSaved to {output_path}")
