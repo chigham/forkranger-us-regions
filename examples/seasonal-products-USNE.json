@@ -49,7 +49,7 @@
     "nameNL": "Andijvie",
     "nameEN": "Endive",
     "nameDE": "Endivie",
-    "nameUS": "Endive",
+    "nameUS": "Curly endive",
     "image": "endive",
     "LC": [
       10
@@ -699,6 +699,32 @@
     ]
   },
   {
+    "id": 40,
+    "nameNL": "Rodekool",
+    "nameEN": "Red cabbage",
+    "nameDE": "Rotkohl",
+    "nameUS": "Red cabbage",
+    "image": "redcabbage",
+    "LC": [
+      3
+    ],
+    "GFS": [
+      1,
+      2,
+      12
+    ],
+    "PT": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "SN": [
+      6
+    ]
+  },
+  {
     "id": 41,
     "nameNL": "Rucola",
     "nameEN": "Rocket",
@@ -718,6 +744,32 @@
     ],
     "SN": [
       5
+    ]
+  },
+  {
+    "id": 42,
+    "nameNL": "Savooikool",
+    "nameEN": "Savoy cabbage",
+    "nameDE": "Wirsingkohl",
+    "nameUS": "Savoy cabbage",
+    "image": "savoycabbage",
+    "LC": [
+      3
+    ],
+    "GFS": [
+      1,
+      2,
+      12
+    ],
+    "PT": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "SN": [
+      6
     ]
   },
   {
@@ -845,7 +897,7 @@
     "nameNL": "Witlof",
     "nameEN": "Chicory",
     "nameDE": "Chicorée",
-    "nameUS": "Chicory",
+    "nameUS": "Belgian endive",
     "image": "chicory",
     "LC": [
       10
